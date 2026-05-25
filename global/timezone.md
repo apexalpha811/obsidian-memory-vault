@@ -1,7 +1,7 @@
-# Timezone — {{REPLACE_ME}}
+# Timezone — Kade
 
 Applies to ALL agents connected to this vault.
 
-- **{{YOUR_TIMEZONE}}** (e.g. "12-hour PST", "24-hour UTC")
-- Applies to: timestamps, schedules, every time reference.
-- Format: "{{EXAMPLE}}" (e.g. "2:41 PM PST", "14:41 UTC")
+- **PST (UTC-8) / PDT (UTC-7)** — 12-hour format
+- Applies to: timestamps, schedules, every time reference
+- Format: "2:41 PM PST"

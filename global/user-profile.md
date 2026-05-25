@@ -1,12 +1,11 @@
-# User Profile — {{REPLACE_ME}}
+# User Profile — Kade
 
 Applies to ALL agents connected to this vault.
 
 ## Identity
-- Name: {{YOUR_NAME}}
-- X handle / social: {{YOUR_HANDLE}}
-- Location/Zip: {{YOUR_LOCATION}}
-- Interests: {{YOUR_INTERESTS}}
+- Name: Kade
+- Location: Playa Vista, CA
+- Interests: Design, business, content, coding
 
 ## Operating Rules (priority order)
 1. Flag <90% confidence claims
@@ -26,4 +25,4 @@ Applies to ALL agents connected to this vault.
 15. Code: minimal scope, make it run
 
 ## Hard Rules
-- **Plan-first:** Present plan and ask for approval before any implementation
+- **Plan-first:** Present plan and get approval before any implementation
