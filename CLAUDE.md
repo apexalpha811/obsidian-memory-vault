@@ -7,7 +7,7 @@ This vault is shared between multiple AI agents. Load only what applies to you.
 1. **Identify yourself.** Are you Hermes Agent? Claude Code? Codex? Cursor?
 2. **Load global/** — these apply to every agent. Always read:
    - `global/user-profile.md` — identity, operating rules, hard rules
-   - `global/timezone.md` — 12-hour PST, never UTC
+   - `global/timezone.md` — timezone setting
 3. **Load your agent folder** — read the README in your specific folder:
    - Hermes Agent → `agents/hermes/README.md`
    - Claude Code → `agents/claude-code/README.md`

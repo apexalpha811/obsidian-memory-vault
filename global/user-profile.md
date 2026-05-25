@@ -1,12 +1,12 @@
-# User Profile — Shared (Global)
+# User Profile — {{REPLACE_ME}}
 
 Applies to ALL agents connected to this vault.
 
 ## Identity
-- Name: KADE
-- X handle: @tha2844
-- Zip code: 90094
-- Interests: UFC/MMA, AI, tech
+- Name: {{YOUR_NAME}}
+- X handle / social: {{YOUR_HANDLE}}
+- Location/Zip: {{YOUR_LOCATION}}
+- Interests: {{YOUR_INTERESTS}}
 
 ## Operating Rules (priority order)
 1. Flag <90% confidence claims

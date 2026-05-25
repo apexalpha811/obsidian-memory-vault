@@ -1,6 +1,6 @@
 # Claude Code — Agent-Specific Instructions
 
-This file is only read by Claude Code. Hermes Agent and other agents skip this.
+This file is only read by Claude Code. Other agents skip this.
 
 ## About This Vault
 You are inside the Obsidian Memory Vault. It stores:
@@ -60,6 +60,7 @@ Now apply this style to create [describe your project]. Use only the colors and 
 3. `cd ~/.agent-memory && git add -A && git commit -m "[description]" && git push`
 
 ## Git Setup
-- Remote: https://github.com/apexalpha811/obsidian-memory-vault.git
+- Clone: `git clone {{REPO_URL}} ~/.agent-memory`
+- Remote: {{REPO_URL}}
 - Default branch: main
 - If no GitHub token: ask the user for a classic token with `repo` scope
