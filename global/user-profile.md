@@ -1,13 +1,12 @@
-# User Profile & Operating Rules
+# User Profile — Shared (Global)
+
+Applies to ALL agents connected to this vault.
 
 ## Identity
 - Name: KADE
 - X handle: @tha2844
 - Zip code: 90094
 - Interests: UFC/MMA, AI, tech
-
-## Timezone
-- **12-hour PST always.** Not UTC. Not 24-hour. Applies to cron output, timestamps, scheduling, every time reference.
 
 ## Operating Rules (priority order)
 1. Flag <90% confidence claims
