@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-24 — Added CLAUDE.md for Claude Code compatibility
+
+- `CLAUDE.md` — full agent instructions with aesthetic extraction workflow, save/push procedures, rules
+- Updated `_index.md` to reference CLAUDE.md
+- Pushed to GitHub: `github.com/apexalpha811/obsidian-memory-vault`
+
 ## 2026-05-24 — Vault created
 
 - Initial vault structure set up

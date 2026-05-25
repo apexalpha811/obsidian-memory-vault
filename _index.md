@@ -7,6 +7,7 @@ Persistent knowledge base shared between human and AI agents. All files are plai
 ```
 ~/.agent-memory/
 ├── _index.md                 # You are here
+├── CLAUDE.md                 # Agent instructions (read this first if you're Claude Code)
 ├── preferences/
 │   └── user.md               # Operating rules, timezone, profile
 ├── design-systems/
