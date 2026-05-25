@@ -9,7 +9,7 @@ You are operating inside the **Obsidian Memory Vault** (`~/.agent-memory/`). Thi
 ├── _index.md              # Master index — update when adding files
 ├── CLAUDE.md              # You are here
 ├── preferences/
-│   └── user.md            # Operating rules, timezone, delivery
+│   └── user.md            # Operating rules, timezone, preferences
 ├── design-systems/        # Website aesthetic templates
 ├── projects/              # Long-running project documentation
 ├── meta/

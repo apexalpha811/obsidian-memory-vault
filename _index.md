@@ -25,6 +25,3 @@ Persistent knowledge base shared between human and AI agents. All files are plai
 - **Timezone:** 12-hour PST always
 - **User:** @tha2844 on X
 - **Zip:** 90094
-- **Cron delivery:** Use explicit `telegram:CHAT_ID` — `origin` and `no_agent` silently fail
-- **Dedup rule:** Every cron job needs cross-run dedup with 48h auto-prune
-- **API retries:** max_retries: 5 on deepseek-v4-flash, fallback stepfun/step-3.5-flash (OpenRouter)
