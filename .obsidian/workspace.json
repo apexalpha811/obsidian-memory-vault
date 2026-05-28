@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b6ef803c415739c",
+        "id": "4f243c116dd3036a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd0a9a8b0bb44266",
+            "id": "ab9cf82750900eb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "icon": "diff",
+              "title": "Diff: graph.json  (Working Tree)"
             }
           }
         ]
@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "09e46a812434e991",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd0a9a8b0bb44266",
+  "active": "ab9cf82750900eb5",
   "lastOpenFiles": [
-    "_index.md",
-    "meta/changelog.md",
-    "design-systems/transform9.md",
     "agents/claude-code/README.md",
+    "CLAUDE.md",
+    "meta/changelog.md",
+    "2026-05-26.md",
+    "_index.md",
+    "design-systems/transform9.md",
     "agents/hermes/README.md",
     "global/user-profile.md"
   ]
