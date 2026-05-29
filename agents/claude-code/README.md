@@ -59,8 +59,21 @@ Now apply this style to create [describe your project]. Use only the colors and 
 2. Update `meta/changelog.md`
 3. `cd ~/.agent-memory && git add -A && git commit -m "[description]" && git push`
 
+## Local Environment & Tooling (this machine — Windows)
+
+### Document parsing — liteparse is the primary tool
+For reading/extracting content from ANY unstructured document (PDF, DOCX/PPTX/XLSX, images), use the `liteparse` skill / `lit` CLI FIRST. Fall back to `anthropic-skills:pdf` only for PDF *manipulation* (merge, split, rotate, fill forms, encrypt, watermark, create) — liteparse is input/parse-only.
+
+Installed & verified working (2026-05-28):
+- **`lit` v2.0.0** — global npm package `@llamaindex/liteparse`. PDF text extraction needs no extra deps.
+- **OCR (scanned/image PDFs):** Tesseract via `tesseract-rs`. The Windows prebuilt binary has a bug — `default_tessdata_dir()` returns the bare relative string `"tessdata"` (its macOS/Linux branches don't fire on Windows), so it can't find language data. Fix: `eng.traineddata` (tessdata_fast) lives in `C:\Users\kv8n11\.tesseract-rs\tessdata`, and `TESSDATA_PREFIX` is set to that dir at User scope so new shells inherit it. The npm `lit` CLI does NOT expose `--tessdata-path` (only the cargo binary does) — use the env var. Inline fallback: `TESSDATA_PREFIX="C:\Users\kv8n11\.tesseract-rs\tessdata" lit parse …`.
+- **Office docs:** LibreOffice at `C:\Program Files\LibreOffice\program` (added to User PATH). liteparse auto-converts DOCX/PPTX/XLSX → PDF via `soffice`.
+- **Images:** ImageMagick 7.1.2 at `C:\Program Files\ImageMagick-7.1.2-Q16-HDRI` (on Machine PATH). Note: Windows' built-in `C:\Windows\system32\convert.exe` is NOT ImageMagick (it's the FAT→NTFS disk utility) — check for `magick`, not `convert`.
+
+Gotcha: PATH/env changes only reach *newly launched* shells. If `lit`/`soffice`/`magick`/tessdata isn't found mid-session, the process predates the edit — use a fresh shell or prepend the dir inline.
+
 ## Git Setup
-- Clone: `git clone {{REPO_URL}} ~/.agent-memory`
-- Remote: {{REPO_URL}}
+- Clone: `git clone https://github.com/apexalpha811/obsidian-memory-vault.git ~/.agent-memory`
+- Remote: https://github.com/apexalpha811/obsidian-memory-vault.git
 - Default branch: main
 - If no GitHub token: ask the user for a classic token with `repo` scope
