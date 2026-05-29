@@ -2,6 +2,11 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-05-29 — Added knowledge/ general-memory tree (hybrid: type folders + domain tags)
+- New top-level `knowledge/` with type-based subfolders: `people/`, `preferences/`, `decisions/`, `tools-and-setup/`, `references/`, `topics/`. Each has a README stating what belongs there.
+- Filing model: folder = TYPE of thing; frontmatter `tags` = DOMAIN/area of life (work/personal/finance/health/learning/home, extend freely). Master rules + frontmatter schema in `knowledge/README.md`.
+- Purpose: a findable home for general memory that doesn't fit `projects/`, `agents/`, `global/`, or `design-systems/`. Documented in `_index.md`. No memories fabricated — folders + READMEs only. Next: migrate real setup notes (liteparse, obsidian-mcp, Tesseract) from changelog bullets into `tools-and-setup/`.
+
 ## 2026-05-29 — Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write)
 - Registered `obsidian` MCP server at user/global scope in `C:\Users\kv8n11\.claude.json` (top-level `mcpServers`, alongside `codegraph`): `claude mcp add obsidian -s user -- node <...obsidian-mcp\build\main.js> C:\Users\kv8n11\agent-memory-vault`. Loads in every project, not just home.
 - Points at the existing dotless junction `agent-memory-vault` → `.agent-memory` (obsidian-mcp rejects dot-prefixed paths). No folder/structural changes were needed — the layout was already correct.

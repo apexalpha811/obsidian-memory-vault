@@ -19,10 +19,23 @@ Persistent knowledge base shared between AI agents. All files are plain markdown
 │       └── README.md              # [CLAUDE CODE ONLY] Aesthetic extraction, vault maintenance
 ├── design-systems/                # [SHARED] Website aesthetic templates
 ├── projects/                      # [SHARED] Project documentation
+├── knowledge/                     # [SHARED] General memory about things (see knowledge/README.md)
+│   ├── people/                    #   one note per person
+│   ├── preferences/               #   how the user likes things done
+│   ├── decisions/                 #   durable choices + why (ADR-style)
+│   ├── tools-and-setup/           #   environment, tooling, gotchas
+│   ├── references/                #   pointers to external systems
+│   └── topics/                    #   domain facts / subjects of interest
 ├── meta/
 │   └── changelog.md               # What was added and when
 └── logs/                          # Session notes (optional)
 ```
+
+## knowledge/ — general memory (hybrid: type folders + domain tags)
+
+Folder = TYPE of thing; frontmatter `tags` = DOMAIN (work/personal/finance/…). File by
+primary type, link cross-cutting notes with `[[wikilinks]]`. Full filing rules, frontmatter
+schema, and tag vocabulary live in `knowledge/README.md`.
 
 ## Quick Start
 
