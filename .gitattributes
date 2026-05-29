@@ -1,0 +1,4 @@
+# Normalize line endings across machines/agents.
+# Store everything as LF in the repo; avoids phantom whole-file diffs
+# when different OSes (Windows / macOS / Linux) write to this vault.
+* text=auto eol=lf
