@@ -2,6 +2,11 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-05-29 — Memory load/save workflow: SessionStart/End hooks + /save_obsidian, /commit_obsidian
+- Built enforced + intentional memory plumbing in `~/.claude/` (not in vault). Recorded vault-side in `knowledge/tools-and-setup/agent-memory-workflow.md`, with rationale in `knowledge/decisions/2026-05-29-memory-loading-via-hooks.md` and user preference in `knowledge/preferences/enforcement-over-best-effort.md`.
+- SessionStart hook: auto `git pull` + inject `_index.md` / claude-code README / user-profile each session. SessionEnd hook: auto-commit+push uncommitted vault changes (skips when clean). Both need `/hooks` reload or restart to activate.
+- `/save_obsidian` (write only) and `/commit_obsidian` (write + commit + push) slash commands — live immediately. Design principle captured: judgment → slash command, mechanism → hook; don't leave load-bearing behavior to best-effort prompt routines.
+
 ## 2026-05-29 — Added knowledge/ general-memory tree (hybrid: type folders + domain tags)
 - New top-level `knowledge/` with type-based subfolders: `people/`, `preferences/`, `decisions/`, `tools-and-setup/`, `references/`, `topics/`. Each has a README stating what belongs there.
 - Filing model: folder = TYPE of thing; frontmatter `tags` = DOMAIN/area of life (work/personal/finance/health/learning/home, extend freely). Master rules + frontmatter schema in `knowledge/README.md`.
