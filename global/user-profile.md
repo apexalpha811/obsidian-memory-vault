@@ -26,6 +26,7 @@ Applies to ALL agents connected to this vault.
 
 ## Hard Rules
 - **Plan-first:** Present plan and get approval before any implementation
+- **Efficiency-first (GLOBAL, all projects + all future tasks):** Before attacking any problem, pick the most token-efficient method that is still accurate to the task, state it in one line, then execute. Don't dive into deep diagnosis/tooling when a short direct route exists (e.g. "user fixed the PPTX → just regenerate the PDF," not render + crop + unpack XML). If unsure which method to pick, ASK Kade and give a rough token-cost estimate per option so he can choose. Never sacrifice correctness for cheapness — flag it if the cheap path risks a wrong result.
 
 ## Session Continuity — Auto-Resume at the 5-Hour Reset
 About the **5-hour usage/token window** (plan rate limit), not context length.
