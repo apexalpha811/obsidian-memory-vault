@@ -48,14 +48,20 @@ When the SessionStart hook reports an active block, judge whether to auto-schedu
 - Confirm in one line: "Scheduled resume for [local time] — will pick up [task]."
 - One schedule per block reset. Don't stack.
 
-## Rule 2 — `/check_reset` trigger phrase
+## Rule 2 — `/check_reset` slash command
 
-When the user types `/check_reset` (exact match, case-insensitive, possibly with surrounding text), do this:
+`/check_reset` is a real Claude Code slash command, defined at `~/.claude/commands/check_reset.md`. The CLI resolves it directly — when the user types `/check_reset`, the markdown body is loaded as my prompt and I execute it.
 
-1. Run `ccusage blocks --active --json` via Bash/PowerShell.
-2. Parse it with the same logic the hook uses. **Critical gotcha:** PowerShell's `ConvertFrom-Json` returns DateTime objects with `Kind=Utc` already — do NOT re-parse via `[datetime]::Parse` or `[DateTimeOffset]::Parse`, that strips the timezone and shifts by the local offset. Just call `.ToLocalTime()` directly on the parsed property.
-3. Report back: block start (local), window reset (local), wall-clock minutes to reset, burn-projected usage-minutes left, tokens used vs projected total.
-4. If there's clear in-flight work and no scheduled resume exists for this window, offer: "Want me to schedule a resume for [reset time]?"
+**Important — this is NOT a "trigger phrase":** anything starting with `/` is intercepted by the Claude Code CLI before it reaches the model. If the slash command file doesn't exist, the user gets `Unknown command` and I never see the message. So slash commands MUST be registered as files in `~/.claude/commands/` (user-global) or `.claude/commands/` (project-local).
+
+What `/check_reset` does (per the command file):
+1. Run `ccusage blocks --active --json` via PowerShell with explicit Pacific TZ conversion.
+2. Report: block start, window reset, minutes-to-reset, burn-projected minutes left, tokens used/projected — all in 12-hour PT.
+3. If in-flight work exists and no schedule is set, offer to schedule a resume.
+
+**Critical PowerShell gotcha (also in the slash command file):** `ConvertFrom-Json` returns DateTime with `Kind=Utc` already set. Use `[System.TimeZoneInfo]::ConvertTimeFromUtc($prop, $pt)` directly. Do NOT re-parse via `[datetime]::Parse` or `[DateTimeOffset]::Parse` — those strip the timezone and shift by the local offset.
+
+**Plain-text fallback (no slash):** if the user says "check my reset" or "when does my session reset" (no `/`), that DOES reach me, and I should run the same logic.
 
 ## Why the schedule is just a backup
 
