@@ -2,7 +2,10 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
-## 2026-05-29 — Memory load/save workflow: SessionStart/End hooks + /save_obsidian, /commit_obsidian
+## 2026-05-31 — Global rule: auto-resume at the 5-hour reset
+- New file: `global/session-auto-resume.md`. Encodes the rule already in `~/.claude/CLAUDE.md` ("Session Continuity — Auto-Resume at the 5-Hour Reset") as a vault-wide memory so all agents (Hermes, Codex, Cursor, Claude Code) follow it.
+- Rule: in heavy sessions, proactively schedule a resume at the reset time via `mcp__scheduled-tasks__create_scheduled_task` / `CronCreate`; leave a breadcrumb in `tasks/todo.md`. Honest limit stated in the file: no last-token-second detection — quota-reset scheduling is the reliable path.
+- Mirror saved at `~/.claude/projects/C--Users-kv8n11/memory/feedback_session_auto_resume.md` and indexed in that vault's `MEMORY.md`. `_index.md` updated to list the new global file.
 - Built enforced + intentional memory plumbing in `~/.claude/` (not in vault). Recorded vault-side in `knowledge/tools-and-setup/agent-memory-workflow.md`, with rationale in `knowledge/decisions/2026-05-29-memory-loading-via-hooks.md` and user preference in `knowledge/preferences/enforcement-over-best-effort.md`.
 - SessionStart hook: auto `git pull` + inject `_index.md` / claude-code README / user-profile each session. SessionEnd hook: auto-commit+push uncommitted vault changes (skips when clean). Both need `/hooks` reload or restart to activate.
 - `/save_obsidian` (write only) and `/commit_obsidian` (write + commit + push) slash commands — live immediately. Design principle captured: judgment → slash command, mechanism → hook; don't leave load-bearing behavior to best-effort prompt routines.

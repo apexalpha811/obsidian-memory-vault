@@ -11,7 +11,8 @@ Persistent knowledge base shared between AI agents. All files are plain markdown
 ├── CLAUDE.md                      # Root instructions — read me first
 ├── global/
 │   ├── user-profile.md            # [GLOBAL] Identity, operating rules (fill this in)
-│   └── timezone.md                # [GLOBAL] Timezone (fill this in)
+│   ├── timezone.md                # [GLOBAL] Timezone (fill this in)
+│   └── session-auto-resume.md     # [GLOBAL] Schedule resume at the 5-hour reset in heavy sessions
 ├── agents/
 │   ├── hermes/
 │   │   └── README.md              # [HERMES ONLY] Hermes-specific config
