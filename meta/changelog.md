@@ -2,6 +2,12 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-05-31 — Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset)
+- Installed `ccusage` globally (`npm i -g ccusage`). Reads `~/.claude/projects/*/` usage logs locally — no Anthropic API.
+- Added a second SessionStart hook entry in `~/.claude/settings.json` that runs `ccusage blocks --active --json` and injects a `=== CLAUDE 5-HOUR USAGE WINDOW ===` block (start, reset, minutes-to-reset, burn-projection, tokens) into Claude's context every new session.
+- Rewrote `global/session-auto-resume.md` from a "user must tell me reset time" rule into a wired-up mechanism: hook delivers the data → I auto-schedule resume via `mcp__scheduled-tasks__create_scheduled_task` only when in-flight work warrants (todo.md has open items, long task in progress, or burn-projection ≤ time-to-reset). `/check_reset` is the on-demand trigger phrase.
+- Documented the PowerShell `ConvertFrom-Json` gotcha (returns DateTime with Kind=Utc; do NOT re-Parse — just call .ToLocalTime() directly). Cost two iterations to find this; recorded so it doesn't repeat.
+
 ## 2026-05-31 — Global rule: auto-resume at the 5-hour reset
 - New file: `global/session-auto-resume.md`. Encodes the rule already in `~/.claude/CLAUDE.md` ("Session Continuity — Auto-Resume at the 5-Hour Reset") as a vault-wide memory so all agents (Hermes, Codex, Cursor, Claude Code) follow it.
 - Rule: in heavy sessions, proactively schedule a resume at the reset time via `mcp__scheduled-tasks__create_scheduled_task` / `CronCreate`; leave a breadcrumb in `tasks/todo.md`. Honest limit stated in the file: no last-token-second detection — quota-reset scheduling is the reliable path.

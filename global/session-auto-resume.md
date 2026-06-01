@@ -1,34 +1,77 @@
 ---
 name: session-auto-resume
-description: Before hitting the 5-hour Anthropic usage cap in a heavy session, schedule an automatic resume at the reset moment so work doesn't stall.
+description: Auto-check the 5-hour usage window at every session start via ccusage hook; auto-schedule a resume when in-flight work would be cut off; respond to /check_reset on demand.
 metadata:
   type: feedback
 ---
 
 # Session Auto-Resume at the 5-Hour Reset
 
-**Rule:** In any session that's heavy enough to risk hitting the 5-hour Anthropic usage cap, proactively schedule a resume at the next reset time so work continues automatically. Do this *early* in the session, not when the cap is imminent.
+## How the data reaches me
 
-**Why:** The user does not want long tasks to stall overnight or while they're away. The 5-hour window resets 5 hours after the *first message* of the current block, and quota is restored at that moment — so a scheduled task firing at reset time will succeed.
+Anthropic does NOT expose remaining-quota or reset-time from inside the model. State this honestly when explaining limits. The reset time IS knowable from outside — `ccusage` reads Claude Code's local usage logs in `~/.claude/projects/*/` and computes the rolling 5-hour block.
 
-**Honest limitation (state it, don't pretend otherwise):** I cannot detect "right before tokens run out." Anthropic gives no quota-remaining signal, no warning hook, no API for usage state inside the model. So I do NOT promise last-second automation. I promise *reset-time scheduling*, which is the path that actually works.
+**Wired up (Claude Code, Windows):**
+- `ccusage` is installed globally (`npm i -g ccusage`). Verified working.
+- A SessionStart hook in `~/.claude/settings.json` runs `ccusage blocks --active --json` at every session start and injects a block summary into my context. The hook lives in the SessionStart array alongside the agent-memory loader.
 
-**How to apply:**
+The injected summary looks like:
+```
+=== CLAUDE 5-HOUR USAGE WINDOW (auto-loaded) ===
+Block started:  YYYY-MM-DD HH:MM local  (HH:MM UTC)
+Window resets:  YYYY-MM-DD HH:MM local  (HH:MM UTC)
+Time to reset:  N wall-clock minutes
+Burn-projected usage-minutes left: N
+Tokens used: N,NNN  |  Projected total: N,NNN
+=== End usage window ===
+```
 
-1. **Get the reset time.** If the user states it ("resume at 6:45pm"), use it. If not, and the session is clearly heavy / long, ASK once: *"When does your 5-hour window reset? I'll schedule a resume for then."*
-2. **Schedule the resume** using `mcp__scheduled-tasks__create_scheduled_task` (preferred) or `CronCreate`. The scheduled prompt must be self-contained — it re-enters cold, so include:
-   - The exact task to continue
-   - Pointer to `tasks/todo.md` for current state
-   - Any project folder to `cd` into first
-3. **Leave a breadcrumb** in `tasks/todo.md` before the likely cutoff: current state, next steps, files touched. This way even if the schedule misfires, a fresh session can pick up cleanly.
-4. **Confirm to the user** in one line: "Scheduled resume for [time] — will pick up [task]."
-5. **One schedule per window.** Don't stack multiple resumes for the same reset.
+If the block is missing (`Burn-projected usage-minutes left` ≥ `Time to reset` with large headroom), the user has plenty of room. If burn-projected ≤ time-to-reset, they're on track to hit the cap before the window ends.
 
-**When NOT to schedule:**
-- Short / one-off tasks (Q&A, single edits, debugging a small bug)
-- Sessions where the user is actively driving turn-by-turn
-- When no concrete reset time is known and the user isn't around to confirm
+## Rule 1 — Auto-schedule resume at session start (when warranted)
 
-**Tool note (Claude Code, Windows):** `mcp__scheduled-tasks__create_scheduled_task` is the right tool here. `CronCreate` works too but is for recurring schedules — for a one-shot resume, scheduled-tasks is cleaner.
+When the SessionStart hook reports an active block, judge whether to auto-schedule a resume for `Window resets` time:
 
-Related: [[feedback_verify_work]] — the resumed session must still verify its own work, not assume the prior session left things in a good state.
+**Auto-schedule when ANY of these are true:**
+- `tasks/todo.md` exists with open (unchecked) items — clear in-flight work
+- The user opens the session with a clearly long-running task ("build", "research the entire X", "audit all of Y", multi-step plan-mode work)
+- Burn-projected usage-minutes left ≤ Time to reset (i.e. cap will hit before window ends)
+
+**Do NOT auto-schedule when:**
+- It's clearly a one-off Q&A, single-file fix, or short conversation
+- A scheduled task already exists for this block's reset time (check via `mcp__scheduled-tasks__list_scheduled_tasks` if available before creating)
+- The user has explicitly said "no scheduling" this session
+
+**Scheduling mechanics:**
+- Use `mcp__scheduled-tasks__create_scheduled_task` (one-shot, preferred) — NOT `CronCreate` unless recurring is genuinely wanted.
+- The scheduled prompt is self-contained — re-enters cold. Include: (a) what task to continue, (b) "Read `tasks/todo.md`" pointer, (c) any project folder to `cd` into first, (d) reminder to verify work.
+- Confirm in one line: "Scheduled resume for [local time] — will pick up [task]."
+- One schedule per block reset. Don't stack.
+
+## Rule 2 — `/check_reset` trigger phrase
+
+When the user types `/check_reset` (exact match, case-insensitive, possibly with surrounding text), do this:
+
+1. Run `ccusage blocks --active --json` via Bash/PowerShell.
+2. Parse it with the same logic the hook uses. **Critical gotcha:** PowerShell's `ConvertFrom-Json` returns DateTime objects with `Kind=Utc` already — do NOT re-parse via `[datetime]::Parse` or `[DateTimeOffset]::Parse`, that strips the timezone and shifts by the local offset. Just call `.ToLocalTime()` directly on the parsed property.
+3. Report back: block start (local), window reset (local), wall-clock minutes to reset, burn-projected usage-minutes left, tokens used vs projected total.
+4. If there's clear in-flight work and no scheduled resume exists for this window, offer: "Want me to schedule a resume for [reset time]?"
+
+## Why the schedule is just a backup
+
+The schedule fires a fresh Claude Code session at the reset moment. It works because quota is restored at reset. But it's a *backup* — the goal is for the user to be able to walk away, hit the cap mid-task, and not lose progress. So:
+
+- The scheduled prompt must point at a breadcrumb in `tasks/todo.md`, not assume in-memory context survives.
+- Before any likely cutoff, WRITE current state + next steps to `tasks/todo.md`. This is the load-bearing artifact.
+- The resumed session must verify the prior session's claimed progress, not trust it. (See [[feedback_verify_work]].)
+
+## Honest limitations to state when relevant
+
+- Cannot detect "the last token before cutoff." No signal exists from Anthropic to the model for this.
+- ccusage reads local logs — if the user is signed in on multiple machines hitting the same plan, ccusage on machine A doesn't see machine B's usage. Reset time is still accurate (it's based on first-message timestamp), but burn-projection underestimates.
+- ccusage's `endTime` is `startTime + 5h` — this is the block boundary, which is when quota refills. That's the actual reset moment.
+
+## Related
+- [[feedback_verify_work]] — resumed sessions verify, never assume.
+- Mirror in Claude Code's auto-memory: `feedback_session_auto_resume.md` indexed in `MEMORY.md`.
+- The CLAUDE.md root rule "Session Continuity — Auto-Resume at the 5-Hour Reset" pre-dates this mechanism and aligns with it.
