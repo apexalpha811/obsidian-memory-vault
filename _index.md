@@ -12,7 +12,8 @@ Persistent knowledge base shared between AI agents. All files are plain markdown
 ├── global/
 │   ├── user-profile.md            # [GLOBAL] Identity, operating rules (fill this in)
 │   ├── timezone.md                # [GLOBAL] Timezone (fill this in)
-│   └── session-auto-resume.md     # [GLOBAL] Schedule resume at the 5-hour reset in heavy sessions
+│   ├── session-auto-resume.md     # [GLOBAL] Schedule resume at the 5-hour reset in heavy sessions
+│   └── time-format.md             # [GLOBAL] Always 12-hour clock, Pacific Time, for user-facing times
 ├── agents/
 │   ├── hermes/
 │   │   └── README.md              # [HERMES ONLY] Hermes-specific config
