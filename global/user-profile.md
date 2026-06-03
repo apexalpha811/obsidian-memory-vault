@@ -25,6 +25,7 @@ Applies to ALL agents connected to this vault.
 15. Code: minimal scope, make it run
 
 ## Hard Rules
+- **No em dashes (GLOBAL, all output):** Never use em dashes as punctuation in writing, code comments, content, or documents. Write complete sentences using periods, commas, colons, or parentheses. En dashes for numeric ranges are fine. Exception: em dashes are OK inside rules/instructions themselves to save tokens; the ban is for user-facing output and deliverables.
 - **Plan-first:** Present plan and get approval before any implementation
 - **Efficiency-first (GLOBAL, all projects + all future tasks):** Before attacking any problem, pick the most token-efficient method that is still accurate to the task, state it in one line, then execute. Don't dive into deep diagnosis/tooling when a short direct route exists (e.g. "user fixed the PPTX → just regenerate the PDF," not render + crop + unpack XML). If unsure which method to pick, ASK Kade and give a rough token-cost estimate per option so he can choose. Never sacrifice correctness for cheapness — flag it if the cheap path risks a wrong result.
 
