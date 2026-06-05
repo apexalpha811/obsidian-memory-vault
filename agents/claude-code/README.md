@@ -61,14 +61,18 @@ Now apply this style to create [describe your project]. Use only the colors and 
 
 ## Verification economy (token-efficient proof)
 
-Prove "done" with the fewest tokens that still demonstrate the change. Climb the tiers, stop at the first that answers the question; images are the most expensive and persist in context (every screenshot re-bills each later turn). Mirrors the full policy in `~/.claude/CLAUDE.md`.
+Full policy in `~/.claude/CLAUDE.md`. You must verify your own work; never offload to the user. Start at Tier 0, stop at the first tier that fully answers the verification question. You must not climb past a tier once a lower tier proves correctness.
 
-- **Tier 0 — Static:** typecheck, lint, build. First if available. If the project has none, Tier 0 is satisfied trivially — do NOT install or scaffold tooling to fill it.
-- **Tier 1 — Tests:** unit + e2e. Write or extend an e2e test only if (a) a test for this surface already exists — extend it — or (b) the change touches a path with a prior regression. Net-new e2e scaffolding for a one-shot change is banned; drop to Tier 2.
-- **Tier 2 — Text runtime inspection:** console, network, DOM, computed CSS as text (`preview_console_logs`, `preview_network`, `preview_snapshot`, `preview_inspect`). Tier 2 confirms values: a change whose success criterion is a specific value (padding, color, aria label, dimension) stops here even when the element is visual.
-- **Tier 3 — Screenshot for perception only:** for overall layout, spacing balance, contrast, overlap/z-index, "does it look right." If the criterion is a specific value, Tier 2 suffices. Hard budget: one capture per change; a second only after a source fix; a third requires stating in text why no lower tier confirms it. Visual deliverables (PDF/HTML parity, the resume, aesthetic extraction) are legitimate Tier 3 cases but subject to the same budget: one render-and-look, one confirm; use `preview_inspect` for exact values instead of re-shooting.
+- **Tier 0 — Static:** typecheck, lint, build. If none exist, trivially satisfied — do NOT scaffold tooling to fill the slot. Stop here if the change is purely internal and no user-observable behavior changed.
+- **Tier 1 — Tests:** use existing unit/e2e tests. Write or extend an e2e test only if (a) a test for this surface already exists or (b) the path has a prior regression. Do not write a new test for copy changes, icon swaps, or single-line CSS tweaks. Stop here if a passing test asserts exactly the changed behavior.
+- **Tier 2 — Text runtime inspection:** console, network, DOM, computed CSS as text (`preview_console_logs`, `preview_network`, `preview_snapshot`, `preview_inspect`). For any criterion that is a specific value (padding, color, aria, label) — stop here even if the element is visual. Do not screenshot for pixel values, hex colors, border radii, or label text. Stop here if you have a concrete text artifact and no need is inherently visual.
+- **Tier 3 — Screenshot for perception only:** overall layout, spacing balance, contrast, overlap/z-index, "does it feel right." Hard budget: one capture per change; second only after source fix; third requires written justification. Same cap for visual deliverables (PDF parity, resume, aesthetic extraction). Use `preview_inspect` for exact values rather than re-shooting. Stop here once the layout is confirmed or the bug is found and fixed.
 
-**Bans:** screenshot → tweak → screenshot loops; full-page captures when a snapshot answers it; screenshotting text a tool returns directly; re-screenshotting to confirm what a test already covers.
+**You must not:** use screenshot → tweak → screenshot loops; take full-page shots when a focused crop answers it; screenshot text or logs a text tool returns; re-screenshot to confirm what a test already proves; treat screenshots as default proof.
+
+**Narration rule:** State the tier and reason in one line before producing evidence (required for Tier 2 and 3).
+
+**Prior image in context:** If a screenshot already exists in the conversation, default to text evidence for follow-ups. Do not add a second image unless the follow-up is genuinely perceptual and distinct.
 
 ## Local Environment & Tooling (this machine — Windows)
 
