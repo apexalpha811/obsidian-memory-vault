@@ -2,6 +2,10 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-06-05 — Verification economy: six amendments applied (Claude Code + Codex)
+- Applied six amendments to the four-tier verification policy in `~/.claude/CLAUDE.md` and `~/.codex/AGENTS.md`: (1) explicit Tier 2/Tier 3 boundary — Tier 2 confirms values, Tier 3 confirms perception; (2) e2e trigger replaced from "3+ iterations forecast" to present-tense test — write/extend only if a test for the surface already exists or the path has a prior regression; (3) hard numeric Tier 3 budget — one capture per change, second only after source fix, third requires written justification, cap covers visual deliverables; (4) Tier 0 escape hatch — trivially satisfied when no static tooling exists, do NOT install tooling to fill the slot; (5) single source of truth for the bans block — no restatement elsewhere; (6) cross-file parity enforced — canonical tier text is token-for-token identical across both files except the Tier 2 tooling paragraph and file-format wrapper.
+- Vault mirror (`agents/claude-code/README.md`) updated to reflect all amendments.
+
 ## 2026-06-05 — Verification economy: token-efficient proof ladder (Claude Code + Codex)
 - Rewrote the verification rules in `~/.claude/CLAUDE.md` from "always use the browser tools / take screenshots" into a four-tier ladder: Tier 0 static (typecheck/lint/build) → Tier 1 tests (write e2e only when a surface is hit 3+ times or is regression-prone) → Tier 2 text runtime inspection (`preview_snapshot`/`preview_inspect`/console/network, not images) → Tier 3 a single screenshot for layout only. Added a banned-habits list (no screenshot→tweak loops, no full-page when a snapshot answers it, no screenshotting text a tool returns).
 - Reconciled the conflicting "look at the artifact / always screenshot" lines: visual inspection now scoped to visual deliverables (PDF/HTML parity, resume, aesthetic extraction) as legitimate one-look Tier 3 cases; the aesthetic full-page capture is marked a sanctioned one-and-done exception.
