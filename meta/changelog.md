@@ -2,6 +2,13 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-06-05 — Verification economy: token-efficient proof ladder (Claude Code + Codex)
+- Rewrote the verification rules in `~/.claude/CLAUDE.md` from "always use the browser tools / take screenshots" into a four-tier ladder: Tier 0 static (typecheck/lint/build) → Tier 1 tests (write e2e only when a surface is hit 3+ times or is regression-prone) → Tier 2 text runtime inspection (`preview_snapshot`/`preview_inspect`/console/network, not images) → Tier 3 a single screenshot for layout only. Added a banned-habits list (no screenshot→tweak loops, no full-page when a snapshot answers it, no screenshotting text a tool returns).
+- Reconciled the conflicting "look at the artifact / always screenshot" lines: visual inspection now scoped to visual deliverables (PDF/HTML parity, resume, aesthetic extraction) as legitimate one-look Tier 3 cases; the aesthetic full-page capture is marked a sanctioned one-and-done exception.
+- Mirrored a concise version into `agents/claude-code/README.md`.
+- Codex: same policy installed in `C:\Users\kv8n11\.codex\AGENTS.md` (rule 17 folded into Tier 3 cropping, new rule 23 with the tool-neutral ladder using shell-driven headless DOM/CSS dumps, since Codex lacks the preview tools).
+- Rationale: screenshots cost ~1.5k+ tokens each and compound every turn they stay in context, so a screenshot feedback loop shortens the session. Text proof first, image last, same rigor.
+
 ## 2026-05-31 — Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset)
 - Installed `ccusage` globally (`npm i -g ccusage`). Reads `~/.claude/projects/*/` usage logs locally — no Anthropic API.
 - Added a second SessionStart hook entry in `~/.claude/settings.json` that runs `ccusage blocks --active --json` and injects a `=== CLAUDE 5-HOUR USAGE WINDOW ===` block (start, reset, minutes-to-reset, burn-projection, tokens) into Claude's context every new session.

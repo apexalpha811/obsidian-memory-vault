@@ -59,6 +59,16 @@ Now apply this style to create [describe your project]. Use only the colors and 
 2. Update `meta/changelog.md`
 3. `cd ~/.agent-memory && git add -A && git commit -m "[description]" && git push`
 
+## Verification economy (token-efficient proof)
+
+Prove "done" with the fewest tokens that still demonstrate the change. Climb the tiers, stop at the first that answers the question; images are the most expensive and persist in context (every screenshot re-bills each later turn).
+- **Tier 0 — Static:** typecheck, lint, build. First if available.
+- **Tier 1 — Tests:** unit + e2e. Write a NEW e2e test only when the surface is exercised 3+ times or is regression-prone; otherwise use Tier 2.
+- **Tier 2 — Text runtime inspection:** console, network, DOM, computed CSS as text (`preview_console_logs`, `preview_network`, `preview_snapshot`, `preview_inspect`). An exact printed value beats eyeballing a screenshot.
+- **Tier 3 — One screenshot:** layout/visual judgment only, at the end, after Tiers 0 to 2 pass. No screenshot → tweak → screenshot loops; no full-page when a snapshot answers it; never screenshot to read text a tool returns directly.
+
+Mirrors the policy in `~/.claude/CLAUDE.md`. Visual deliverables (PDF/HTML parity, the resume, aesthetic extraction) are legitimate one-look Tier 3 cases: one capture, not a loop.
+
 ## Local Environment & Tooling (this machine — Windows)
 
 ### Document parsing — liteparse is the primary tool
