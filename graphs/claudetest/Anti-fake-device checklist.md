@@ -1,0 +1,17 @@
+---
+source_file: "open-design/skills/mobile-app/references/checklist.md"
+type: "document"
+community: "Community 510"
+location: "L36"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_510
+---
+
+# Anti-fake-device checklist
+
+## Connections
+- [[Mobile app checklist]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_510

@@ -1,0 +1,17 @@
+---
+source_file: "open-design/design-systems/neumorphism/DESIGN.md"
+type: "document"
+community: "Community 403"
+location: "L1"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_403
+---
+
+# DESIGN.md
+
+## Connections
+- [[Design System Inspired by Neumorphism]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_403

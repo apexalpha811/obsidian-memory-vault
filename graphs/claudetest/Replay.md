@@ -1,0 +1,17 @@
+---
+source_file: "open-design/specs/current/critique-theater.md"
+type: "document"
+community: "Community 78"
+location: "L401"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_78
+---
+
+# Replay
+
+## Connections
+- [[UI surface]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_78

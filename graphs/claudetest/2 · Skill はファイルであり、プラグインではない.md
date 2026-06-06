@@ -1,0 +1,17 @@
+---
+source_file: "open-design/README.ja-JP.md"
+type: "document"
+community: "Community 72"
+location: "L223"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_72
+---
+
+# 2 · Skill はファイルであり、プラグインではない
+
+## Connections
+- [[6 つの基本設計思想]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_72

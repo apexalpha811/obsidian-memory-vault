@@ -1,0 +1,17 @@
+---
+source_file: "awesome-design-md/design-md/meta/DESIGN.md"
+type: "document"
+community: "Community 55"
+location: "L561"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_55
+---
+
+# Badges & Status
+
+## Connections
+- [[Components_24]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_55

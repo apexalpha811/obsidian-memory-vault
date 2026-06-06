@@ -1,0 +1,25 @@
+---
+type: community
+members: 2
+---
+
+# Community 743
+
+**Members:** 2 nodes
+
+## Members
+- [[.constructor()_1138]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[Threshold_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_743
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Community 1]]
+
+## Top bridge nodes
+- [[Threshold_1]] - degree 2, connects to 1 community

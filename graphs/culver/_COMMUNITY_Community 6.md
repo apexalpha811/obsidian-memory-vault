@@ -1,0 +1,255 @@
+---
+type: community
+members: 186
+---
+
+# Community 6
+
+**Members:** 186 nodes
+
+## Members
+- [[._createCanvas()_4]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[._createMeshCanvas()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[._fetch()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[._fetch()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_635]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_636]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_637]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_638]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_639]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_640]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_642]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_653]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_667]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_669]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_671]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_674]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_681]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_685]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_687]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_709]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_711]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_712]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_713]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_714]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_715]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_718]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_723]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_724]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_726]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_727]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_728]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_729]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.constructor()_730]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.fetch()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.getPattern()_8]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.id()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.isDarkMode()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.isModifyingCurrentTransform()_4]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.newOutliner()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.path()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.serialize()_19]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.shouldBuildText()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.textContent()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.workerPort()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[.workerSrc()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AbortException_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationActionEventType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationBorderStyleType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationEditorParamsType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationEditorType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationElementFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationFieldFlag_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationFlag_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationMode_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationReplyType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[AnnotationType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[BaseBinaryDataFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[BaseException_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[CSSConstants_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[CSS_FONT_INFO_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[CallbackKind_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[CaretAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[CheckboxWidgetAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[ChoiceWidgetAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[ColorScheme_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[DOMBinaryDataFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[DOMCanvasFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[Dependencies_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[DocumentActionEventType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[DrawOPS_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[DummyShadingPattern_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[EO_CLIP_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FONT_IDENTITY_MATRIX_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FONT_INFO_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FakeEditor_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FontPathInfo_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FormatError_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FreeHighlightOutline_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[FreeTextAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[GetElementsByNameSet_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[GlobalWorkerOptions_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[HSLToRGB()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[HighlightAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[INITIAL_DATA_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[INTERNAL_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[IdManager_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[ImageKind_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[InvalidPDFException_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[LINE_CAP_STYLES_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[LINE_JOIN_STYLES_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[MIN_MAX_INIT_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[MeshFigureType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[MeshShadingPattern_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[NORMAL_CLIP_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[NodeBinaryDataFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[NodeFilterFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[OPS_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PATTERN_INFO_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PDFFetchStream_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PageActionEventType_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PaintType_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PasswordException_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PasswordResponses_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PathType_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PermissionFlag_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PixelsPerInch_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PolygonAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[PushButtonWidgetAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[RGBToHSL()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[RadioButtonWidgetAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[RenderingCancelledException_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[RenderingIntentFlag_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[ResponseException_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[SCALE_MATRIX_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[SYSTEM_FONT_INFO_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[SerializableEmpty_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[SignatureWidgetAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[SquigglyAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[StampAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[StreamKind_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[StrikeOutAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[SupportedImageMimeTypes_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[TextAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[TextRenderingMode_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[UnderlineAnnotationElement_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[UnknownErrorException_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[VerbosityLevel_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[XY_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[XfaText_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[_isValidExplicitDest()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[_isValidProtocol()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[bytesToString()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[computeLuminance()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[contrastCache_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[contrastRatio()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[convertBlackAndWhiteToRGBA()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[convertRGBToRGBA()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[convertToRGBA()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[createHeaders()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[createValidAbsoluteUrl()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[dataObj()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[deprecated()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[drawFigure()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[drawMeshWithGPU()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[drawTriangle()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[extractFilenameFromHeader()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[fetchData()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[findContrastColor()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getDataProp()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getDocument()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getFactoryUrlProp()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getFilenameFromContentDispositionHeader()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getFilenameFromUrl()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getNetworkStream()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getPdfFilenameFromUrl()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getUrlProp()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getUuid()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getVerbosityLevel()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[getXfaPageViewport()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[grayToRGBA()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[hexNumbers_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isArrayEqual()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isDataScheme()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isEvalSupported()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isLittleEndian()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isNameProxy()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isPdfFile()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isValidFetchUrl()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[isWebGPUMeshReady()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[makeArr()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[makeMap()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[makeObj()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[noContextMenu()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[node_utils_fetchData()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[normalizeUnicode()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[objectSize()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[onFn()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[pdf.mjs_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[setVerbosityLevel()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[string32()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[stringToBytes()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[stringToPDFString()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[stringToUTF8String()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[stripPath()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[updateUrlHash()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+- [[utf8StringToString()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.mjs
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_6
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 26 edges to [[_COMMUNITY_Community 27]]
+- 22 edges to [[_COMMUNITY_Community 14]]
+- 21 edges to [[_COMMUNITY_Community 41]]
+- 12 edges to [[_COMMUNITY_Community 74]]
+- 10 edges to [[_COMMUNITY_Community 20]]
+- 10 edges to [[_COMMUNITY_Community 790]]
+- 8 edges to [[_COMMUNITY_Community 54]]
+- 8 edges to [[_COMMUNITY_Community 147]]
+- 8 edges to [[_COMMUNITY_Community 30]]
+- 7 edges to [[_COMMUNITY_Community 72]]
+- 6 edges to [[_COMMUNITY_Community 91]]
+- 5 edges to [[_COMMUNITY_Community 146]]
+- 4 edges to [[_COMMUNITY_Community 60]]
+- 4 edges to [[_COMMUNITY_Community 65]]
+- 4 edges to [[_COMMUNITY_Community 62]]
+- 4 edges to [[_COMMUNITY_Community 144]]
+- 3 edges to [[_COMMUNITY_Community 96]]
+- 3 edges to [[_COMMUNITY_Community 63]]
+- 3 edges to [[_COMMUNITY_Community 157]]
+- 3 edges to [[_COMMUNITY_Community 281]]
+- 3 edges to [[_COMMUNITY_Community 57]]
+- 3 edges to [[_COMMUNITY_Community 52]]
+- 3 edges to [[_COMMUNITY_Community 112]]
+- 3 edges to [[_COMMUNITY_Community 47]]
+- 2 edges to [[_COMMUNITY_Community 33]]
+- 2 edges to [[_COMMUNITY_Community 88]]
+- 2 edges to [[_COMMUNITY_Community 280]]
+- 2 edges to [[_COMMUNITY_Community 186]]
+- 2 edges to [[_COMMUNITY_Community 203]]
+- 2 edges to [[_COMMUNITY_Community 301]]
+- 2 edges to [[_COMMUNITY_Community 789]]
+- 1 edge to [[_COMMUNITY_Community 24]]
+- 1 edge to [[_COMMUNITY_Community 48]]
+- 1 edge to [[_COMMUNITY_Community 300]]
+- 1 edge to [[_COMMUNITY_Community 289]]
+- 1 edge to [[_COMMUNITY_Community 113]]
+- 1 edge to [[_COMMUNITY_Community 174]]
+- 1 edge to [[_COMMUNITY_Community 315]]
+- 1 edge to [[_COMMUNITY_Community 270]]
+- 1 edge to [[_COMMUNITY_Community 302]]
+- 1 edge to [[_COMMUNITY_Community 431]]
+- 1 edge to [[_COMMUNITY_Community 231]]
+- 1 edge to [[_COMMUNITY_Community 158]]
+
+## Top bridge nodes
+- [[pdf.mjs_1]] - degree 300, connects to 43 communities
+- [[getDocument()_1]] - degree 10, connects to 2 communities
+- [[stringToBytes()_2]] - degree 6, connects to 2 communities
+- [[findContrastColor()_1]] - degree 6, connects to 2 communities
+- [[getPdfFilenameFromUrl()_1]] - degree 5, connects to 2 communities

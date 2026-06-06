@@ -1,0 +1,1578 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "1"
+    },
+    {
+      "id": "n_anation_brand_guidelines_1_brand_overview",
+      "type": "file",
+      "file": "1. Brand Overview.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_10_application_examples",
+      "type": "file",
+      "file": "10. Application Examples.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_11_file_naming_convention",
+      "type": "file",
+      "file": "11. File Naming Convention.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_2_logo",
+      "type": "file",
+      "file": "2. Logo.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_7_layout_grid",
+      "type": "file",
+      "file": "7. Layout & Grid.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_9_token_nft_design",
+      "type": "file",
+      "file": "9. Token & NFT Design.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "type": "file",
+      "file": "A-NATION Media \u2014 Brand Design Guidelines.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_clear_space",
+      "type": "file",
+      "file": "Clear Space.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_golden_ratio",
+      "type": "file",
+      "file": "Golden Ratio.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_logo_variations",
+      "type": "file",
+      "file": "Logo Variations.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_minimum_size",
+      "type": "file",
+      "file": "Minimum Size.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_nft_badges",
+      "type": "file",
+      "file": "NFT Badges.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_primary_logo",
+      "type": "file",
+      "file": "Primary Logo.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_prohibited_uses",
+      "type": "file",
+      "file": "Prohibited Uses.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_token_symbol_anation",
+      "type": "file",
+      "file": "Token Symbol `ANATION`.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_web_layout",
+      "type": "file",
+      "file": "Web Layout.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines",
+      "type": "file",
+      "file": "anation-brand-guidelines.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 1180,
+      "y": 0,
+      "width": 880,
+      "height": 720,
+      "color": "2"
+    },
+    {
+      "id": "n_readme_api_reference",
+      "type": "file",
+      "file": "API Reference.md",
+      "x": 1200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_configuration",
+      "type": "file",
+      "file": "Configuration.md",
+      "x": 1400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_features",
+      "type": "file",
+      "file": "Features.md",
+      "x": 1600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_firecrawl_copycat",
+      "type": "file",
+      "file": "Firecrawl-copycat \ud83d\udd78\ufe0f\ud83d\udee1\ufe0f.md",
+      "x": 1200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_health_check",
+      "type": "file",
+      "file": "Health Check.md",
+      "x": 1400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_how_it_works",
+      "type": "file",
+      "file": "How it works.md",
+      "x": 1600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_license",
+      "type": "file",
+      "file": "License.md",
+      "x": 1200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_post_requests",
+      "type": "file",
+      "file": "POST requests.md",
+      "x": 1400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_quick_start",
+      "type": "file",
+      "file": "Quick Start.md",
+      "x": 1600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme",
+      "type": "file",
+      "file": "README.md",
+      "x": 1200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_response_format_json",
+      "type": "file",
+      "file": "Response (format=json).md",
+      "x": 1400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_scrape_a_url",
+      "type": "file",
+      "file": "Scrape a URL.md",
+      "x": 1600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_tech_stack",
+      "type": "file",
+      "file": "Tech Stack.md",
+      "x": 1200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_usage",
+      "type": "file",
+      "file": "Usage.md",
+      "x": 1400,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_using_with_claude",
+      "type": "file",
+      "file": "Using with Claude.md",
+      "x": 1600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_get_scrape_post_scrape",
+      "type": "file",
+      "file": "`GET scrape`  `POST scrape`.md",
+      "x": 1200,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Community 2",
+      "x": 2140,
+      "y": 0,
+      "width": 880,
+      "height": 620,
+      "color": "3"
+    },
+    {
+      "id": "n_beautifulsoup",
+      "type": "file",
+      "file": "BeautifulSoup.md",
+      "x": 2160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_rationale_53",
+      "type": "file",
+      "file": "Convert HTML to clean markdown..md",
+      "x": 2360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_rationale_92",
+      "type": "file",
+      "file": "Extract page metadata..md",
+      "x": 2560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_rationale_1",
+      "type": "file",
+      "file": "Firecrawl-copycat \u2014 stealth web scraper powered by CloakBrowser.  Scrapes any UR.md",
+      "x": 2160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_rationale_122",
+      "type": "file",
+      "file": "Scrape a URL using CloakBrowser (stealth Playwright).      Args         url Th.md",
+      "x": 2360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_rationale_229",
+      "type": "file",
+      "file": "Synchronous wrapper for scrape_with_cloak..md",
+      "x": 2560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_py_bool",
+      "type": "file",
+      "file": "bool.md",
+      "x": 2160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_extract_metadata",
+      "type": "file",
+      "file": "extract_metadata().md",
+      "x": 2360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_html_to_markdown",
+      "type": "file",
+      "file": "html_to_markdown().md",
+      "x": 2560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_py_int",
+      "type": "file",
+      "file": "int.md",
+      "x": 2160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_scrape",
+      "type": "file",
+      "file": "scrape().md",
+      "x": 2360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_scrape_with_cloak",
+      "type": "file",
+      "file": "scrape_with_cloak().md",
+      "x": 2560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper",
+      "type": "file",
+      "file": "scraper.py.md",
+      "x": 2160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_py_str",
+      "type": "file",
+      "file": "str.md",
+      "x": 2360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Community 3",
+      "x": 3100,
+      "y": 0,
+      "width": 880,
+      "height": 620,
+      "color": "4"
+    },
+    {
+      "id": "n_server_rationale_1",
+      "type": "file",
+      "file": "Firecrawl-copycat API server.  A self-hosted web scraping API powered by CloakBr.md",
+      "x": 3120,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_rationale_55",
+      "type": "file",
+      "file": "Health check endpoint..md",
+      "x": 3320,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_rationale_39",
+      "type": "file",
+      "file": "Result from scraping a URL..md",
+      "x": 3520,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_rationale_74",
+      "type": "file",
+      "file": "Scrape a URL and return clean content.      Like Firecrawl's scrape endpoint, b.md",
+      "x": 3120,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scraper_scraperesult",
+      "type": "file",
+      "file": "ScrapeResult.md",
+      "x": 3320,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_py_bool",
+      "type": "file",
+      "file": "bool_1.md",
+      "x": 3520,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_health",
+      "type": "file",
+      "file": "health().md",
+      "x": 3120,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_py_int",
+      "type": "file",
+      "file": "int_1.md",
+      "x": 3320,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_main",
+      "type": "file",
+      "file": "main().md",
+      "x": 3520,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_root",
+      "type": "file",
+      "file": "root().md",
+      "x": 3120,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_scrape_endpoint",
+      "type": "file",
+      "file": "scrape_endpoint().md",
+      "x": 3320,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server",
+      "type": "file",
+      "file": "server.py.md",
+      "x": 3520,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_server_py_str",
+      "type": "file",
+      "file": "str_1.md",
+      "x": 3120,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Community 4",
+      "x": 0,
+      "y": 800,
+      "width": 660,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_anation_brand_guidelines_4_typography",
+      "type": "file",
+      "file": "4. Typography.md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_body_font_montserrat",
+      "type": "file",
+      "file": "Body Font Montserrat.md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_primary_display_heading_font_ethnocentric",
+      "type": "file",
+      "file": "Primary Display  Heading Font Ethnocentric.md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_secondary_heading_font_orbitron",
+      "type": "file",
+      "file": "Secondary Heading Font Orbitron.md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_special_treatments",
+      "type": "file",
+      "file": "Special Treatments.md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_type_scale",
+      "type": "file",
+      "file": "Type Scale.md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Community 5",
+      "x": 1180,
+      "y": 800,
+      "width": 660,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_anation_claude_prompt_template_brand_identity",
+      "type": "file",
+      "file": "BRAND IDENTITY.md",
+      "x": 1200,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_claude_prompt_template_color_palette",
+      "type": "file",
+      "file": "COLOR PALETTE.md",
+      "x": 1400,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_claude_prompt_template_design_rules",
+      "type": "file",
+      "file": "DESIGN RULES.md",
+      "x": 1600,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_claude_prompt_template_output",
+      "type": "file",
+      "file": "OUTPUT.md",
+      "x": 1200,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_claude_prompt_template_typography",
+      "type": "file",
+      "file": "TYPOGRAPHY.md",
+      "x": 1400,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_claude_prompt_template",
+      "type": "file",
+      "file": "anation-claude-prompt-template.md",
+      "x": 1600,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Community 6",
+      "x": 2140,
+      "y": 800,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_anation_brand_guidelines_3_color_palette",
+      "type": "file",
+      "file": "3. Color Palette.md",
+      "x": 2160,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_gradient_logo",
+      "type": "file",
+      "file": "Gradient (Logo).md",
+      "x": 2360,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_primary_colors",
+      "type": "file",
+      "file": "Primary Colors.md",
+      "x": 2560,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_secondary_colors",
+      "type": "file",
+      "file": "Secondary Colors.md",
+      "x": 2160,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_theme_structure",
+      "type": "file",
+      "file": "Theme Structure.md",
+      "x": 2360,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Community 7",
+      "x": 3100,
+      "y": 800,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_anation_brand_guidelines_5_imagery_iconography",
+      "type": "file",
+      "file": "5. Imagery & Iconography.md",
+      "x": 3120,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_iconography",
+      "type": "file",
+      "file": "Iconography.md",
+      "x": 3320,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_photography_style",
+      "type": "file",
+      "file": "Photography Style.md",
+      "x": 3520,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_video_motion",
+      "type": "file",
+      "file": "Video  Motion.md",
+      "x": 3120,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Community 8",
+      "x": 0,
+      "y": 1280,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_anation_brand_guidelines_6_ui_components",
+      "type": "file",
+      "file": "6. UI Components.md",
+      "x": 20,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_buttons",
+      "type": "file",
+      "file": "Buttons.md",
+      "x": 220,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_cards",
+      "type": "file",
+      "file": "Cards.md",
+      "x": 420,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_navigation",
+      "type": "file",
+      "file": "Navigation.md",
+      "x": 20,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Community 9",
+      "x": 1180,
+      "y": 1280,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_anation_brand_guidelines_8_voice_tone",
+      "type": "file",
+      "file": "8. Voice & Tone.md",
+      "x": 1200,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_brand_voice_principles",
+      "type": "file",
+      "file": "Brand Voice Principles.md",
+      "x": 1400,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_do_say",
+      "type": "file",
+      "file": "Do Say.md",
+      "x": 1600,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anation_brand_guidelines_don_t_say",
+      "type": "file",
+      "file": "Don't Say.md",
+      "x": 1200,
+      "y": 1440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Community 10",
+      "x": 2140,
+      "y": 1280,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_setup",
+      "type": "file",
+      "file": "setup.sh.md",
+      "x": 2160,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_c_users_kv8n11_firecrawl_copycat_setup_sh__entry",
+      "type": "file",
+      "file": "setup.sh script.md",
+      "x": 2360,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Community 11",
+      "x": 3100,
+      "y": 1280,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_design_style_prompt_template",
+      "type": "file",
+      "file": "design-style-prompt-template.md",
+      "x": 3120,
+      "y": 1360,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_scraper_scraper_extract_metadata",
+      "fromNode": "n_scraper",
+      "toNode": "n_scraper_extract_metadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraper_html_to_markdown",
+      "fromNode": "n_scraper",
+      "toNode": "n_scraper_html_to_markdown",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraper_scrape",
+      "fromNode": "n_scraper",
+      "toNode": "n_scraper_scrape",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraper_scrape_with_cloak",
+      "fromNode": "n_scraper",
+      "toNode": "n_scraper_scrape_with_cloak",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraper_scraperesult",
+      "fromNode": "n_scraper",
+      "toNode": "n_scraper_scraperesult",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraper_rationale_1",
+      "fromNode": "n_scraper",
+      "toNode": "n_scraper_rationale_1",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_server",
+      "fromNode": "n_scraper",
+      "toNode": "n_server",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_scraper_rationale_39",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_scraper_rationale_39",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_scraper_scrape",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_scraper_scrape",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_scraper_scrape_with_cloak",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_scraper_scrape_with_cloak",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_server",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_server",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_html_to_markdown_beautifulsoup",
+      "fromNode": "n_scraper_html_to_markdown",
+      "toNode": "n_beautifulsoup",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_html_to_markdown_scraper_py_str",
+      "fromNode": "n_scraper_html_to_markdown",
+      "toNode": "n_scraper_py_str",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_html_to_markdown_scraper_rationale_53",
+      "fromNode": "n_scraper_html_to_markdown",
+      "toNode": "n_scraper_rationale_53",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_html_to_markdown_scraper_scrape_with_cloak",
+      "fromNode": "n_scraper_html_to_markdown",
+      "toNode": "n_scraper_scrape_with_cloak",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_py_str_scraper_extract_metadata",
+      "fromNode": "n_scraper_py_str",
+      "toNode": "n_scraper_extract_metadata",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_py_str_scraper_scrape",
+      "fromNode": "n_scraper_py_str",
+      "toNode": "n_scraper_scrape",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_py_str_scraper_scrape_with_cloak",
+      "fromNode": "n_scraper_py_str",
+      "toNode": "n_scraper_scrape_with_cloak",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_extract_metadata_beautifulsoup",
+      "fromNode": "n_scraper_extract_metadata",
+      "toNode": "n_beautifulsoup",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_extract_metadata_scraper_rationale_92",
+      "fromNode": "n_scraper_extract_metadata",
+      "toNode": "n_scraper_rationale_92",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_extract_metadata_scraper_scrape_with_cloak",
+      "fromNode": "n_scraper_extract_metadata",
+      "toNode": "n_scraper_scrape_with_cloak",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_beautifulsoup_scraper_scrape_with_cloak",
+      "fromNode": "n_beautifulsoup",
+      "toNode": "n_scraper_scrape_with_cloak",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_with_cloak_scraper_rationale_122",
+      "fromNode": "n_scraper_scrape_with_cloak",
+      "toNode": "n_scraper_rationale_122",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_with_cloak_scraper_scrape",
+      "fromNode": "n_scraper_scrape_with_cloak",
+      "toNode": "n_scraper_scrape",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_with_cloak_scraper_py_bool",
+      "fromNode": "n_scraper_scrape_with_cloak",
+      "toNode": "n_scraper_py_bool",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_with_cloak_scraper_py_int",
+      "fromNode": "n_scraper_scrape_with_cloak",
+      "toNode": "n_scraper_py_int",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_with_cloak_server",
+      "fromNode": "n_scraper_scrape_with_cloak",
+      "toNode": "n_server",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_with_cloak_server_scrape_endpoint",
+      "fromNode": "n_scraper_scrape_with_cloak",
+      "toNode": "n_server_scrape_endpoint",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_py_int_scraper_scrape",
+      "fromNode": "n_scraper_py_int",
+      "toNode": "n_scraper_scrape",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_py_bool_scraper_scrape",
+      "fromNode": "n_scraper_py_bool",
+      "toNode": "n_scraper_scrape",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scrape_scraper_rationale_229",
+      "fromNode": "n_scraper_scrape",
+      "toNode": "n_scraper_rationale_229",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_server_server_health",
+      "fromNode": "n_server",
+      "toNode": "n_server_health",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_server_server_main",
+      "fromNode": "n_server",
+      "toNode": "n_server_main",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_server_server_root",
+      "fromNode": "n_server",
+      "toNode": "n_server_root",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_server_server_scrape_endpoint",
+      "fromNode": "n_server",
+      "toNode": "n_server_scrape_endpoint",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_server_server_rationale_1",
+      "fromNode": "n_server",
+      "toNode": "n_server_rationale_1",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_server_health_server_rationale_55",
+      "fromNode": "n_server_health",
+      "toNode": "n_server_rationale_55",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_server_scrape_endpoint_server_rationale_74",
+      "fromNode": "n_server_scrape_endpoint",
+      "toNode": "n_server_rationale_74",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_server_scrape_endpoint_server_py_bool",
+      "fromNode": "n_server_scrape_endpoint",
+      "toNode": "n_server_py_bool",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_server_scrape_endpoint_server_py_int",
+      "fromNode": "n_server_scrape_endpoint",
+      "toNode": "n_server_py_int",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_server_scrape_endpoint_server_py_str",
+      "fromNode": "n_server_scrape_endpoint",
+      "toNode": "n_server_py_str",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_setup_c_users_kv8n11_firecrawl_copycat_setup_sh__entry",
+      "fromNode": "n_setup",
+      "toNode": "n_c_users_kv8n11_firecrawl_copycat_setup_sh__entry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_readme_firecrawl_copycat",
+      "fromNode": "n_readme",
+      "toNode": "n_readme_firecrawl_copycat",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_api_reference",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_api_reference",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_configuration",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_configuration",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_features",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_features",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_how_it_works",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_how_it_works",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_license",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_license",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_quick_start",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_quick_start",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_tech_stack",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_tech_stack",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_usage",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_usage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_firecrawl_copycat_readme_using_with_claude",
+      "fromNode": "n_readme_firecrawl_copycat",
+      "toNode": "n_readme_using_with_claude",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_usage_readme_health_check",
+      "fromNode": "n_readme_usage",
+      "toNode": "n_readme_health_check",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_usage_readme_post_requests",
+      "fromNode": "n_readme_usage",
+      "toNode": "n_readme_post_requests",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_usage_readme_scrape_a_url",
+      "fromNode": "n_readme_usage",
+      "toNode": "n_readme_scrape_a_url",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_api_reference_readme_get_scrape_post_scrape",
+      "fromNode": "n_readme_api_reference",
+      "toNode": "n_readme_get_scrape_post_scrape",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_api_reference_readme_response_format_json",
+      "fromNode": "n_readme_api_reference",
+      "toNode": "n_readme_response_format_json",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "fromNode": "n_anation_brand_guidelines",
+      "toNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_10_application_examples",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_10_application_examples",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_11_file_naming_convention",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_11_file_naming_convention",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_1_brand_overview",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_1_brand_overview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_2_logo",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_2_logo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_3_color_palette",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_3_color_palette",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_4_typography",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_4_typography",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_5_imagery_iconography",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_5_imagery_iconography",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_6_ui_components",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_6_ui_components",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_7_layout_grid",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_7_layout_grid",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_8_voice_tone",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_8_voice_tone",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_a_nation_media_brand_design_guidelines_anation_brand_guidelines_9_token_nft_design",
+      "fromNode": "n_anation_brand_guidelines_a_nation_media_brand_design_guidelines",
+      "toNode": "n_anation_brand_guidelines_9_token_nft_design",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_2_logo_anation_brand_guidelines_clear_space",
+      "fromNode": "n_anation_brand_guidelines_2_logo",
+      "toNode": "n_anation_brand_guidelines_clear_space",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_2_logo_anation_brand_guidelines_logo_variations",
+      "fromNode": "n_anation_brand_guidelines_2_logo",
+      "toNode": "n_anation_brand_guidelines_logo_variations",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_2_logo_anation_brand_guidelines_minimum_size",
+      "fromNode": "n_anation_brand_guidelines_2_logo",
+      "toNode": "n_anation_brand_guidelines_minimum_size",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_2_logo_anation_brand_guidelines_primary_logo",
+      "fromNode": "n_anation_brand_guidelines_2_logo",
+      "toNode": "n_anation_brand_guidelines_primary_logo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_2_logo_anation_brand_guidelines_prohibited_uses",
+      "fromNode": "n_anation_brand_guidelines_2_logo",
+      "toNode": "n_anation_brand_guidelines_prohibited_uses",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_3_color_palette_anation_brand_guidelines_gradient_logo",
+      "fromNode": "n_anation_brand_guidelines_3_color_palette",
+      "toNode": "n_anation_brand_guidelines_gradient_logo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_3_color_palette_anation_brand_guidelines_primary_colors",
+      "fromNode": "n_anation_brand_guidelines_3_color_palette",
+      "toNode": "n_anation_brand_guidelines_primary_colors",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_3_color_palette_anation_brand_guidelines_secondary_colors",
+      "fromNode": "n_anation_brand_guidelines_3_color_palette",
+      "toNode": "n_anation_brand_guidelines_secondary_colors",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_3_color_palette_anation_brand_guidelines_theme_structure",
+      "fromNode": "n_anation_brand_guidelines_3_color_palette",
+      "toNode": "n_anation_brand_guidelines_theme_structure",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_4_typography_anation_brand_guidelines_body_font_montserrat",
+      "fromNode": "n_anation_brand_guidelines_4_typography",
+      "toNode": "n_anation_brand_guidelines_body_font_montserrat",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_4_typography_anation_brand_guidelines_primary_display_heading_font_ethnocentric",
+      "fromNode": "n_anation_brand_guidelines_4_typography",
+      "toNode": "n_anation_brand_guidelines_primary_display_heading_font_ethnocentric",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_4_typography_anation_brand_guidelines_secondary_heading_font_orbitron",
+      "fromNode": "n_anation_brand_guidelines_4_typography",
+      "toNode": "n_anation_brand_guidelines_secondary_heading_font_orbitron",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_4_typography_anation_brand_guidelines_special_treatments",
+      "fromNode": "n_anation_brand_guidelines_4_typography",
+      "toNode": "n_anation_brand_guidelines_special_treatments",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_4_typography_anation_brand_guidelines_type_scale",
+      "fromNode": "n_anation_brand_guidelines_4_typography",
+      "toNode": "n_anation_brand_guidelines_type_scale",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_5_imagery_iconography_anation_brand_guidelines_iconography",
+      "fromNode": "n_anation_brand_guidelines_5_imagery_iconography",
+      "toNode": "n_anation_brand_guidelines_iconography",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_5_imagery_iconography_anation_brand_guidelines_photography_style",
+      "fromNode": "n_anation_brand_guidelines_5_imagery_iconography",
+      "toNode": "n_anation_brand_guidelines_photography_style",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_5_imagery_iconography_anation_brand_guidelines_video_motion",
+      "fromNode": "n_anation_brand_guidelines_5_imagery_iconography",
+      "toNode": "n_anation_brand_guidelines_video_motion",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_6_ui_components_anation_brand_guidelines_buttons",
+      "fromNode": "n_anation_brand_guidelines_6_ui_components",
+      "toNode": "n_anation_brand_guidelines_buttons",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_6_ui_components_anation_brand_guidelines_cards",
+      "fromNode": "n_anation_brand_guidelines_6_ui_components",
+      "toNode": "n_anation_brand_guidelines_cards",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_6_ui_components_anation_brand_guidelines_navigation",
+      "fromNode": "n_anation_brand_guidelines_6_ui_components",
+      "toNode": "n_anation_brand_guidelines_navigation",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_7_layout_grid_anation_brand_guidelines_golden_ratio",
+      "fromNode": "n_anation_brand_guidelines_7_layout_grid",
+      "toNode": "n_anation_brand_guidelines_golden_ratio",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_7_layout_grid_anation_brand_guidelines_web_layout",
+      "fromNode": "n_anation_brand_guidelines_7_layout_grid",
+      "toNode": "n_anation_brand_guidelines_web_layout",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_8_voice_tone_anation_brand_guidelines_brand_voice_principles",
+      "fromNode": "n_anation_brand_guidelines_8_voice_tone",
+      "toNode": "n_anation_brand_guidelines_brand_voice_principles",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_8_voice_tone_anation_brand_guidelines_do_say",
+      "fromNode": "n_anation_brand_guidelines_8_voice_tone",
+      "toNode": "n_anation_brand_guidelines_do_say",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_8_voice_tone_anation_brand_guidelines_don_t_say",
+      "fromNode": "n_anation_brand_guidelines_8_voice_tone",
+      "toNode": "n_anation_brand_guidelines_don_t_say",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_9_token_nft_design_anation_brand_guidelines_nft_badges",
+      "fromNode": "n_anation_brand_guidelines_9_token_nft_design",
+      "toNode": "n_anation_brand_guidelines_nft_badges",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_brand_guidelines_9_token_nft_design_anation_brand_guidelines_token_symbol_anation",
+      "fromNode": "n_anation_brand_guidelines_9_token_nft_design",
+      "toNode": "n_anation_brand_guidelines_token_symbol_anation",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_claude_prompt_template_anation_claude_prompt_template_brand_identity",
+      "fromNode": "n_anation_claude_prompt_template",
+      "toNode": "n_anation_claude_prompt_template_brand_identity",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_claude_prompt_template_anation_claude_prompt_template_color_palette",
+      "fromNode": "n_anation_claude_prompt_template",
+      "toNode": "n_anation_claude_prompt_template_color_palette",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_claude_prompt_template_anation_claude_prompt_template_design_rules",
+      "fromNode": "n_anation_claude_prompt_template",
+      "toNode": "n_anation_claude_prompt_template_design_rules",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_claude_prompt_template_anation_claude_prompt_template_output",
+      "fromNode": "n_anation_claude_prompt_template",
+      "toNode": "n_anation_claude_prompt_template_output",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_anation_claude_prompt_template_anation_claude_prompt_template_typography",
+      "fromNode": "n_anation_claude_prompt_template",
+      "toNode": "n_anation_claude_prompt_template_typography",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_server_py_bool",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_server_py_bool",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_server_py_int",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_server_py_int",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_scraper_scraperesult_server_py_str",
+      "fromNode": "n_scraper_scraperesult",
+      "toNode": "n_server_py_str",
+      "label": "uses [INFERRED]"
+    }
+  ]
+}

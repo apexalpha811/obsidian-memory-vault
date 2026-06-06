@@ -1,0 +1,17 @@
+---
+source_file: "open-design/design-systems/stripe/DESIGN.md"
+type: "document"
+community: "Community 55"
+location: "L101"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_55
+---
+
+# Principles
+
+## Connections
+- [[3. Typography Rules_61]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_55

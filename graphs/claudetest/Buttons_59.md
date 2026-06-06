@@ -1,0 +1,17 @@
+---
+source_file: "open-design/design-systems/spacex/DESIGN.md"
+type: "document"
+community: "Community 102"
+location: "L64"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_102
+---
+
+# Buttons
+
+## Connections
+- [[4. Component Stylings_58]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_102

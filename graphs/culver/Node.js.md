@@ -1,0 +1,17 @@
+---
+source_file: ".agents/skills/building-inferencesh-apps/SKILL.md"
+type: "document"
+community: "Community 93"
+location: "L129"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_93
+---
+
+# Node.js
+
+## Connections
+- [[App Structure]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_93

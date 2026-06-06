@@ -1,0 +1,17 @@
+---
+source_file: "open-design/skills/simple-deck/references/layouts.md"
+type: "document"
+community: "Community 326"
+location: "L5"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_326
+---
+
+# Pre-flight
+
+## Connections
+- [[Simple deck slide layouts]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_326

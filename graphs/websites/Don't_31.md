@@ -1,0 +1,17 @@
+---
+source_file: "awesome-design-md/design-md/mistral.ai/DESIGN.md"
+type: "document"
+community: "Community 16"
+location: "L718"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_16
+---
+
+# Don't
+
+## Connections
+- [[Do's and Don'ts_27]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_16

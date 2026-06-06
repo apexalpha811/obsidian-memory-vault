@@ -1,0 +1,229 @@
+---
+type: community
+members: 184
+---
+
+# Community 16
+
+**Members:** 184 nodes
+
+## Members
+- [[.addCopyPasteListeners()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addDragAndDropListeners()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addEditorToLayer()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addEventListeners()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addFocusListeners()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addFocusManager()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addKeyboardManager()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addResizeToUndoStack()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addSelectionListener()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.cleanup()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createClipPath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createImagePlaceholder()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createNewEditor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createResizers()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.currentEditorType()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.dispatchUpdateStates()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getCenterPoint()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getCtx()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.makeButton()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.onTouchStart()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.processItems()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.resizerPointerdown()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.selectOnPointerEvent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.selectionChange()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setPosition()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setState()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setUpDragSession()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.show()_4]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.textLayerPointerDown()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.touchPinchEndCallback()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.touchPinchStartCallback()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._createContainer()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._createPopup()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._createQuadrilaterals()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._editOnDoubleClick()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._getKeyModifier()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._prepareFontLoadEvent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._request()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._setBackgroundColor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._setDefaultPropertiesFromJS()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._setEventListener()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._setEventListeners()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._setRequired()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._setTextStyle()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.add()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addChangedExistingAnnotation()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addCommands()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addDeletedAnnotationElement()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addEditor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addEventListener()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addHighlightArea()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addHighlightArea()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addHighlightArea()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addHighlightArea()_4]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addLayer()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addNewEditor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addOrRebuild()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.addToAnnotationStorage()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.attach()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.bind()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.boundingClientRect()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.changeParent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.cleanUndoStack()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.combinedSignal()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.commentForegroundColor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_13]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_16]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_33]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_53]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_54]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_71]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_84]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_85]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_86]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_87]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_112]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_113]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createAndAddNewEditor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createElement()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.deleteAnnotationElement()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.detach()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.disable()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.disableClick()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.disableTextSelection()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.enable()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.enableClick()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.enableEditing()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.enableEditing()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.enableTextSelection()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.enableWaiting()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endDrawing()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.findNewParent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getEditableAnnotation()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getEditableAnnotations()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getElementsToTriggerPopup()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getElementsToTriggerPopup()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getElementsToTriggerPopup()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getElementsToTriggerPopup()_4]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getId()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getMode()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getValue()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.hide()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.insertRule()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.inverseTransform()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isDeletedAnnotationElement()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isInvisible()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.keydown()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.makeHexColor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.makeResizable()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.maybeShow()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.moveEditorInDOM()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.normalizeRect()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pageDimensions()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pasteEditor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pause()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pointerdown()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pointerdown()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pointerup()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.rebuild()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.rebuild()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.rebuild()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.rebuild()_5]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.remove()_10]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_5]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_6]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_11]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_12]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_13]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_14]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_15]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_16]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_17]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_19]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_20]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_21]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_22]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_23]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_24]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_25]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_26]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_27]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_28]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_29]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_30]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_31]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_32]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_35]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_39]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.render()_40]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.renderAnnotationElement()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.renderButton()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.renderButton()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.select()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setSelected()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setSelected()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.show()_5]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.showAllEditors()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.showElementAndHideCanvas()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.startDrawingSession()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.startHighlighting()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.toggle()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.toggleAltTextBadge()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.toggleAnnotationLayerPointerEvents()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.toggleDrawing()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.togglePointerEvents()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.toggleSelected()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.unselect()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.updateMode()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.updatePageIndex()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.updateParams()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.updateToolbar()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[AnnotationEditorLayer]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[CircleAnnotationElement]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[LineAnnotationElement]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[PolylineAnnotationElement]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[SquareAnnotationElement]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[TextLayerImages]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[WidgetAnnotationElement]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[bindEvents()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[percentage()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[renderRichText()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_16
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 87 edges to [[_COMMUNITY_Community 3]]
+- 56 edges to [[_COMMUNITY_Community 9]]
+- 46 edges to [[_COMMUNITY_Community 26]]
+- 43 edges to [[_COMMUNITY_Community 76]]
+- 35 edges to [[_COMMUNITY_Community 8]]
+- 34 edges to [[_COMMUNITY_Community 69]]
+- 32 edges to [[_COMMUNITY_Community 2]]
+- 16 edges to [[_COMMUNITY_Community 61]]
+- 15 edges to [[_COMMUNITY_Community 788]]
+- 15 edges to [[_COMMUNITY_Community 15]]
+- 14 edges to [[_COMMUNITY_Community 55]]
+- 12 edges to [[_COMMUNITY_Community 4]]
+- 8 edges to [[_COMMUNITY_Community 51]]
+- 6 edges to [[_COMMUNITY_Community 13]]
+- 4 edges to [[_COMMUNITY_Community 787]]
+- 3 edges to [[_COMMUNITY_Community 791]]
+- 3 edges to [[_COMMUNITY_Community 98]]
+- 2 edges to [[_COMMUNITY_Community 110]]
+- 2 edges to [[_COMMUNITY_Community 267]]
+
+## Top bridge nodes
+- [[.add()_3]] - degree 100, connects to 15 communities
+- [[.createElement()]] - degree 65, connects to 10 communities
+- [[.toggle()]] - degree 26, connects to 8 communities
+- [[.endDrawing()_1]] - degree 13, connects to 8 communities
+- [[AnnotationEditorLayer]] - degree 59, connects to 7 communities

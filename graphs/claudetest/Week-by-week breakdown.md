@@ -1,0 +1,17 @@
+---
+source_file: "open-design/docs/roadmap.md"
+type: "document"
+community: "Community 317"
+location: "L71"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_317
+---
+
+# Week-by-week breakdown
+
+## Connections
+- [[Phase 1 — MVP (~6–8 weeks)]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_317

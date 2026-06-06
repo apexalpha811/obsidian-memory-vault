@@ -1,0 +1,17 @@
+---
+source_file: ".agents/skills/content-repurposing/SKILL.md"
+type: "document"
+community: "Community 181"
+location: "L109"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_181
+---
+
+# Blog Post -> Newsletter Section
+
+## Connections
+- [[Conversion Recipes]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_181

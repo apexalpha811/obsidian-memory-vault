@@ -1,0 +1,17 @@
+---
+source_file: "open-design/design-systems/linear-app/DESIGN.md"
+type: "document"
+community: "Community 67"
+location: "L251"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_67
+---
+
+# Whitespace Philosophy
+
+## Connections
+- [[5. Layout Principles_24]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_67

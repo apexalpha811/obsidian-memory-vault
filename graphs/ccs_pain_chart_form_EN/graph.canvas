@@ -1,0 +1,317 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "n_readme_architecture_approach_2_html_is_the_source",
+      "type": "file",
+      "file": "Architecture (Approach 2 \u2014 HTML is the source).md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_assets",
+      "type": "file",
+      "file": "Assets.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_browser_behavior",
+      "type": "file",
+      "file": "Browser behavior.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "type": "file",
+      "file": "Culver City Surgical \u2014 Pain Chart Form 2026 (PI Cases, English).md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_deploying_online_vercel",
+      "type": "file",
+      "file": "Deploying online (Vercel).md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_field_structure",
+      "type": "file",
+      "file": "Field structure.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_pages",
+      "type": "file",
+      "file": "Pages.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme",
+      "type": "file",
+      "file": "README.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_rebuilding_the_pdf",
+      "type": "file",
+      "file": "Rebuilding the PDF.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_why_kids_matters",
+      "type": "file",
+      "file": "Why `Kids` matters.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 960,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_build_pdf_rationale_164",
+      "type": "file",
+      "file": "Build a PDF Form XObject (used for checkbox AP appearance streams).     The con.md",
+      "x": 980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_rationale_1",
+      "type": "file",
+      "file": "Build the fillable Pain Chart PDF from index.html (Approach 2 pipeline).  Pipeli.md",
+      "x": 1180,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_rationale_187",
+      "type": "file",
+      "file": "Open flat_print.pdf, build AcroForm overlay with Kids merge for shared names..md",
+      "x": 1380,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_rationale_123",
+      "type": "file",
+      "file": "Run Playwright print HTML to PDF, extract widget coords per page.      Critical.md",
+      "x": 980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_make_form_xobject",
+      "type": "file",
+      "file": "_make_form_xobject().md",
+      "x": 1180,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf",
+      "type": "file",
+      "file": "build_pdf.py.md",
+      "x": 1380,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_main",
+      "type": "file",
+      "file": "main().md",
+      "x": 980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_overlay_form_fields",
+      "type": "file",
+      "file": "overlay_form_fields().md",
+      "x": 1180,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_build_pdf_render_html_and_extract",
+      "type": "file",
+      "file": "render_html_and_extract().md",
+      "x": 1380,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_build_pdf_build_pdf_main",
+      "fromNode": "n_build_pdf",
+      "toNode": "n_build_pdf_main",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_build_pdf_make_form_xobject",
+      "fromNode": "n_build_pdf",
+      "toNode": "n_build_pdf_make_form_xobject",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_build_pdf_overlay_form_fields",
+      "fromNode": "n_build_pdf",
+      "toNode": "n_build_pdf_overlay_form_fields",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_build_pdf_render_html_and_extract",
+      "fromNode": "n_build_pdf",
+      "toNode": "n_build_pdf_render_html_and_extract",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_build_pdf_rationale_1",
+      "fromNode": "n_build_pdf",
+      "toNode": "n_build_pdf_rationale_1",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_render_html_and_extract_build_pdf_main",
+      "fromNode": "n_build_pdf_render_html_and_extract",
+      "toNode": "n_build_pdf_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_render_html_and_extract_build_pdf_rationale_123",
+      "fromNode": "n_build_pdf_render_html_and_extract",
+      "toNode": "n_build_pdf_rationale_123",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_make_form_xobject_build_pdf_overlay_form_fields",
+      "fromNode": "n_build_pdf_make_form_xobject",
+      "toNode": "n_build_pdf_overlay_form_fields",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_make_form_xobject_build_pdf_rationale_164",
+      "fromNode": "n_build_pdf_make_form_xobject",
+      "toNode": "n_build_pdf_rationale_164",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_overlay_form_fields_build_pdf_main",
+      "fromNode": "n_build_pdf_overlay_form_fields",
+      "toNode": "n_build_pdf_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_build_pdf_overlay_form_fields_build_pdf_rationale_187",
+      "fromNode": "n_build_pdf_overlay_form_fields",
+      "toNode": "n_build_pdf_rationale_187",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "fromNode": "n_readme",
+      "toNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_architecture_approach_2_html_is_the_source",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_architecture_approach_2_html_is_the_source",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_assets",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_assets",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_browser_behavior",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_browser_behavior",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_deploying_online_vercel",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_deploying_online_vercel",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_field_structure",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_field_structure",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_pages",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_pages",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_rebuilding_the_pdf",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_rebuilding_the_pdf",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english_readme_why_kids_matters",
+      "fromNode": "n_readme_culver_city_surgical_pain_chart_form_2026_pi_cases_english",
+      "toNode": "n_readme_why_kids_matters",
+      "label": "contains [EXTRACTED]"
+    }
+  ]
+}

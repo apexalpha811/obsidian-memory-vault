@@ -1,0 +1,19 @@
+---
+source_file: "skills/mcp-builder/reference/python_mcp_server.md"
+type: "document"
+community: "Community 7"
+location: "L57"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_7
+---
+
+# Tool Implementation
+
+## Connections
+- [[Python MCP Server Implementation Guide]] - `contains` [EXTRACTED]
+- [[Tool Naming_3]] - `contains` [EXTRACTED]
+- [[Tool Structure with FastMCP]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_7

@@ -1,0 +1,18 @@
+---
+source_file: "open-design/apps/web/src/providers/registry.ts"
+type: "code"
+community: "Community 4"
+location: "L226"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_4
+---
+
+# updateDeployConfig()
+
+## Connections
+- [[FileViewer.tsx]] - `imports` [EXTRACTED]
+- [[registry.ts]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_4

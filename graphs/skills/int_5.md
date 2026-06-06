@@ -1,0 +1,17 @@
+---
+source_file: "skills/docx/scripts/office/validators/redlining.py"
+type: "code"
+community: "Community 78"
+location: "L22"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_78
+---
+
+# int
+
+## Connections
+- [[.repair()_2]] - `references` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_78

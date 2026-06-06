@@ -1,0 +1,254 @@
+---
+type: community
+members: 214
+---
+
+# Community 4
+
+**Members:** 214 nodes
+
+## Members
+- [[.drawFilter()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getScaledPath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.restoreInitialState()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._createGradient()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._createMaskCanvas()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._createReversedGradient()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._isCircleCenterOutside()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[._scaleImage()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.applyTransferMapsToBitmap()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.applyTransferMapsToCanvas()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.applyTransform()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.axialAlignedBoundingBox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.bboxToClipBoxDropOperation()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.bboxToClipBoxDropOperation()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginAnnotation()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginCompat()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginDrawing()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginGroup()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginMarkedContent()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginMarkedContent()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginMarkedContent()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginMarkedContentProps()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginSMaskMode()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.beginText()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.checkSMaskState()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.clip()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.clipBbox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.clipBox()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.clipBox()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.clone()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.closeEOFillStroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.closeFillStroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.closePath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.closeStroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.compose()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.composeSMask()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructPath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_23]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_24]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_25]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_38]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_40]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_41]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.constructor()_42]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.consumePath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.create()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.createPatternCanvas()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.destroy()_16]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endAnnotation()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endCompat()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endDrawing()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endGroup()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endMarkedContent()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endMarkedContent()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endMarkedContent()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endPath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endSMaskMode()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.endText()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.eoClip()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.eoFill()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.eoFillStroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.fill()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.fillStroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.genericComposeSMask()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getClippedPathBoundingBox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getColorN_Pattern()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getObject()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getOpenMarker()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getOpenMarker()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getPathBoundingBox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getPattern()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getPattern()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getPattern()_4]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getScaleForStroking()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getSimpleIndex()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getSimpleIndex()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getSinglePixelWidth()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.getSizeAndScale()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.growOperationsCount()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.growOperationsCount()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.inSMaskMode()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.inheritPendingDependenciesAsFutureForcedDependencies()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.inheritPendingDependenciesAsFutureForcedDependencies()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.inheritSimpleDataAsFutureForcedDependencies()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.inheritSimpleDataAsFutureForcedDependencies()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.initializeGraphics()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.intersect()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isContentVisible()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isEmptyClip()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isFontSubpixelAAEnabled()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isModifyingCurrentTransform()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isOriginBased()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isRadial()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.isVisible()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.markPoint()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.markPointProps()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.moveText()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.nextLine()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintChar()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintFormXObjectBegin()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintFormXObjectEnd()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintImageMaskXObject()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintImageMaskXObjectGroup()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintImageMaskXObjectRepeat()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintImageXObject()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintImageXObjectRepeat()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintInlineImageXObject()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintInlineImageXObjectGroup()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.paintSolidColorImageMask()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.popBaseTransform()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.popBaseTransform()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pushBaseTransform()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.pushBaseTransform()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.rawFillPath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.record()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordBBox()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordBBox()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordCharacterBBox()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordCharacterBBox()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordClipBox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordClipBox()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordClipBox()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordCloseMarker()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordCloseMarker()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordDependencies()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordDependencies()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordFullPageBBox()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordFullPageBBox()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordFutureForcedDependency()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordFutureForcedDependency()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordIncrementalData()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordIncrementalData()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordNamedData()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordNamedDependency()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordOpenMarker()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordOpenMarker()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordOperation()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordOperation()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordShowTextOperation()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordShowTextOperation()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordSimpleData()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordSimpleData()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordSimpleDataFromNamed()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.recordSimpleDataFromNamed()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.rescaleAndStroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.reset()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.resetBBox()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.resetBBox()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.resetIncrementalData()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.resetIncrementalData()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.restore()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.restore()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.restore()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.save()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.save()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.save()_4]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.scale()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setCharSpacing()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setCharWidth()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setCharWidthAndBounds()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setDash()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setFillAndStrokeStyleToContext()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setFillColorN()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setFillRGBColor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setFillTransparent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setFlatness()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setFont()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setGState()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setHScale()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setLeading()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setLeadingMoveText()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setLineCap()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setLineJoin()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setLineWidth()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setMiterLimit()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setRenderingIntent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setStrokeColorN()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setStrokeRGBColor()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setStrokeTransparent()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setTextMatrix()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setTextRenderingMode()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setTextRise()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.setWordSpacing()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.shadingFill()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.showText()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.showType3Text()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.singularValueDecompose2dScale()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.startNewPathAndClipBox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.stroke()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.take()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.take()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.take()_3]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.takeDebugMetadata()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.takeDebugMetadata()_2]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.transform()_1]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[.updateClipFromPath()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[CanvasDependencyTracker]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[CanvasExtraState]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[CanvasGraphics]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[CanvasImagesTracker]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[CanvasNestedDependencyTracker]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[RadialAxialShadingPattern]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[TilingPattern]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[applyBoundingBox()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[copyCtxState()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[drawImageAtIntegerCoords()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[getCurrentTransform()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[getCurrentTransformInverse()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[getImageSmoothingEnabled()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[info()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[mirrorContextOperations()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[putBinaryImageData()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[putBinaryImageMask()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+- [[resetCtxToDefault()]] - code - deliverables/pain-chart-packet-exact/vendor/pdf.mjs
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_4
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 32 edges to [[_COMMUNITY_Community 26]]
+- 29 edges to [[_COMMUNITY_Community 2]]
+- 12 edges to [[_COMMUNITY_Community 16]]
+- 8 edges to [[_COMMUNITY_Community 787]]
+- 7 edges to [[_COMMUNITY_Community 3]]
+- 6 edges to [[_COMMUNITY_Community 13]]
+- 6 edges to [[_COMMUNITY_Community 9]]
+- 5 edges to [[_COMMUNITY_Community 55]]
+- 4 edges to [[_COMMUNITY_Community 83]]
+- 3 edges to [[_COMMUNITY_Community 76]]
+- 2 edges to [[_COMMUNITY_Community 8]]
+- 2 edges to [[_COMMUNITY_Community 51]]
+- 1 edge to [[_COMMUNITY_Community 791]]
+- 1 edge to [[_COMMUNITY_Community 788]]
+
+## Top bridge nodes
+- [[.destroy()_16]] - degree 29, connects to 7 communities
+- [[.create()_3]] - degree 36, connects to 6 communities
+- [[.initializeGraphics()]] - degree 6, connects to 4 communities
+- [[.recordOperation()_1]] - degree 6, connects to 3 communities
+- [[CanvasGraphics]] - degree 101, connects to 2 communities

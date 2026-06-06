@@ -1,0 +1,17 @@
+---
+source_file: "open-design/design-systems/kraken/DESIGN.md"
+type: "document"
+community: "Community 140"
+location: "L120"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_140
+---
+
+# Quick Color Reference
+
+## Connections
+- [[9. Agent Prompt Guide_23]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_140

@@ -1,0 +1,17 @@
+---
+source_file: "free-claude-code/tests/test_sse_builder.py"
+type: "rationale"
+community: "Community 20"
+location: "L341"
+tags:
+  - graphify/rationale
+  - graphify/EXTRACTED
+  - community/Community_20
+---
+
+# Tests for estimate_output_tokens.
+
+## Connections
+- [[TestSSEBuilderTokenEstimation]] - `rationale_for` [EXTRACTED]
+
+#graphify/rationale #graphify/EXTRACTED #community/Community_20

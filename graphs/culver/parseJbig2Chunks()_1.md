@@ -1,0 +1,20 @@
+---
+source_file: "deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs"
+type: "code"
+community: "Community 148"
+location: "L6106"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_148
+---
+
+# parseJbig2Chunks()
+
+## Connections
+- [[.parseChunks()_1]] - `calls` [EXTRACTED]
+- [[pdf.worker.mjs_1]] - `contains` [EXTRACTED]
+- [[processSegments()_1]] - `calls` [EXTRACTED]
+- [[readSegments()_1]] - `calls` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_148

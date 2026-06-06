@@ -1,0 +1,200 @@
+---
+type: community
+members: 141
+---
+
+# Community 12
+
+**Members:** 141 nodes
+
+## Members
+- [[$searchNode_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.endsStreamOnError()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.findStreamLength()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.$onChild()_7]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[._hexStringWarn()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.assignXref()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.charCodeOf()_5]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.checkHeader()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_807]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_813]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_814]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_839]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_850]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_888]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_1250]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.constructor()_1252]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.create()_13]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.create()_14]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.createStream()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.decryptString()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.extractFontHeader()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.extractFontProgram()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.fetch()_4]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.fetchCompressed()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.fetchIfRef()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.fetchIfRefAsync()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.fetchUncompressed()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.filter()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.findASCII85DecodeInlineStreamEnd()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.findASCIIHexDecodeInlineStreamEnd()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.findDCTDecodeInlineStreamEnd()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.findDefaultInlineStreamEnd()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.forEach()_5]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.generateHuffmanTable()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getBits()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getByte()_7]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getCatalogObj()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getCode()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getEntry()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getHexString()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getInt32()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getName()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getNumber()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getNumber()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getObj()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getObj()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getToken()_2]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getToken()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.getUint16()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.indexObjects()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.inlineStreamSkipEI()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.isAsync()_5]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.isDefaultDecode()_6]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.isIdentityCMap()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.length()_13]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.makeFilter()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.makeInlineImage()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.makeStream()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.makeSubStream()_7]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.mapBfRange()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.mapBfRangeToArray()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.mapCidRange()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.mapOne()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.nextChar()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.nextChar()_4]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.nextChar()_5]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.parse()_18]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.parse()_30]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.parseImageProperties()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.peekByte()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.peekBytes()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.peekChar()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.prevChar()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.processXRefStream()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.processXRefTable()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readBlock()_14]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readBlock()_18]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readBoolean()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readCharStrings()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readInt()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readNumberArray()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readXRef()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readXRefStream()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.readXRefTable()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.refill()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.resetNewTemporaryRef()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.shift()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.skip()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.skipToNextLine()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.startXRef()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[.tryShift()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[CMapFactory_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[CipherTransform_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[FlateStream_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[IdentityCMap_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[Lexer_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[Linearization_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[Parser_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[PostScriptLexer_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[Type1Parser_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[XRef_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[__wbg_init()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[__wbg_load()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[buildHuffmanTable()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[bytesToString()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[createBuiltInCMap()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[createDataNode()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[decodeScan()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[decrypt()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[decryptAscii()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[expectInt()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[expectString()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[extendCMap()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[find()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[getFontFileType()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[getInlineImageCacheKey()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[getUuid()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isCFFFile()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isCmd()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isDefaultDecodeHelper()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isHexDigit()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isOpenTypeFile()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isSpecial()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isTrueTypeCollectionFile()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isTrueTypeFile()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isType1File()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[isWhiteSpace()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[normalizeBlendMode()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseBfChar()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseBfRange()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseCMap()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseCMapName()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseCidChar()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseCidRange()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseCodespaceRange()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseExpression()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[parseWMode()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[strToInt()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[toHexDigit()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[validateOS2Table()_1]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+- [[warn()_3]] - code - deliverables/pain-chart-packet-original-panels/vendor/pdf.worker.mjs
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Community_12
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 67 edges to [[_COMMUNITY_Community 5]]
+- 55 edges to [[_COMMUNITY_Community 1]]
+- 32 edges to [[_COMMUNITY_Community 28]]
+- 29 edges to [[_COMMUNITY_Community 39]]
+- 28 edges to [[_COMMUNITY_Community 44]]
+- 26 edges to [[_COMMUNITY_Community 34]]
+- 21 edges to [[_COMMUNITY_Community 19]]
+- 13 edges to [[_COMMUNITY_Community 58]]
+- 13 edges to [[_COMMUNITY_Community 59]]
+- 12 edges to [[_COMMUNITY_Community 23]]
+- 11 edges to [[_COMMUNITY_Community 627]]
+- 10 edges to [[_COMMUNITY_Community 218]]
+- 9 edges to [[_COMMUNITY_Community 89]]
+- 9 edges to [[_COMMUNITY_Community 77]]
+- 9 edges to [[_COMMUNITY_Community 148]]
+- 8 edges to [[_COMMUNITY_Community 67]]
+- 5 edges to [[_COMMUNITY_Community 66]]
+- 4 edges to [[_COMMUNITY_Community 75]]
+- 4 edges to [[_COMMUNITY_Community 248]]
+- 4 edges to [[_COMMUNITY_Community 68]]
+- 2 edges to [[_COMMUNITY_Community 282]]
+- 2 edges to [[_COMMUNITY_Community 50]]
+- 2 edges to [[_COMMUNITY_Community 45]]
+- 2 edges to [[_COMMUNITY_Community 204]]
+- 2 edges to [[_COMMUNITY_Community 71]]
+- 2 edges to [[_COMMUNITY_Community 101]]
+- 1 edge to [[_COMMUNITY_Community 496]]
+- 1 edge to [[_COMMUNITY_Community 320]]
+- 1 edge to [[_COMMUNITY_Community 263]]
+- 1 edge to [[_COMMUNITY_Community 330]]
+- 1 edge to [[_COMMUNITY_Community 234]]
+- 1 edge to [[_COMMUNITY_Community 291]]
+- 1 edge to [[_COMMUNITY_Community 25]]
+
+## Top bridge nodes
+- [[warn()_3]] - degree 158, connects to 23 communities
+- [[bytesToString()_3]] - degree 17, connects to 7 communities
+- [[.parse()_18]] - degree 12, connects to 6 communities
+- [[.shift()_1]] - degree 16, connects to 5 communities
+- [[.indexObjects()_1]] - degree 15, connects to 5 communities

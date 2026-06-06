@@ -1,0 +1,17 @@
+---
+source_file: ".agents/skills/widgets-ui/SKILL.md"
+type: "document"
+community: "Community 226"
+location: "L70"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_226
+---
+
+# Display
+
+## Connections
+- [[Widget Types]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_226

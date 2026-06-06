@@ -1,0 +1,17 @@
+---
+source_file: "docs/design/dynamic-dispatch-coverage-playbook.md"
+type: "document"
+community: "Community 45"
+location: "L119"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_45
+---
+
+# Step 5 — Validate (the same way every time)
+
+## Connections
+- [[4. The repeatable methodology (run this per languageframework)]] - `contains` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Community_45
