@@ -58,3 +58,8 @@ Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 - Fixed Windows Tesseract OCR: the prebuilt binary's `default_tessdata_dir()` returns bare `"tessdata"` on Windows. Downloaded `eng.traineddata` (tessdata_fast) to `C:\Users\kv8n11\.tesseract-rs\tessdata` and set `TESSDATA_PREFIX` (User scope). Verified OCR now recognizes glyphs.
 - Wired up converters: added LibreOffice (`C:\Program Files\LibreOffice\program`) to User PATH for Office docs; installed ImageMagick 7.1.2 (Machine PATH) for image inputs. All three input categories (PDF / Office / image) verified working end-to-end.
 - Cleaned up `agents/claude-code/README.md`: replaced `{{REPO_URL}}` placeholders with the real remote.
+
+## 2026-06-12 — DocuPipe clone schema draft action
+- In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, added a `Create schema` action to the DocuPipe module editor.
+- The action creates a fresh target-specific schema draft, persists it in the clone, and keeps `Duplicate as new` as the exact-copy path.
+- Verified in Chrome: the draft state flips to `draft created`, the module selector points at the new schema, and the eligibility preset renders into the JSON schema textarea when `eligibility270` is selected.

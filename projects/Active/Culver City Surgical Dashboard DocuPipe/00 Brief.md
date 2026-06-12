@@ -10,7 +10,7 @@
 - The original dashboard remains unchanged.
 - The clone runs with `node server.js` on `http://localhost:8742`.
 - Default mode is `APP_MODE=mock`.
-- The clone includes a dependency-free Node proxy, DocuPipe intake UI, editable schema modules, Stedi payload preview, dashboard insertion, and Print Center.
+- The clone includes a dependency-free Node proxy, DocuPipe intake UI, editable schema modules, target-specific `Create schema` drafts, Stedi payload preview, dashboard insertion, and Print Center.
 
 ## Added Clone Files
 
@@ -33,6 +33,7 @@
 - Live DocuPipe PNG upload was tested with `C:\Users\kv8n11\Downloads\test.png`.
 - Upload gotcha fixed: DocuPipe expects base64 local file content at `document.file.contents`, not `document.file.base64`.
 - Live result: document `QC3CFTsP`, job `lhDjlUD1`, both completed. One PNG page parsed, language `en`, result length `770`, 1 credit, processing time about `3.37s`.
+- `Create schema` action verified in Chrome. It seeds a fresh target preset, flips the schema state to `draft created`, and selects the new module in the editor.
 
 ## Next
 
