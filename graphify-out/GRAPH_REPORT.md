@@ -1,16 +1,16 @@
 # Graph Report - .agent-memory  (2026-06-12)
 
 ## Corpus Check
-- 170 files · ~117,700 words
+- 170 files · ~117,809 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 24 nodes · 21 edges · 3 communities
+- 25 nodes · 22 edges · 3 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `383eadb3`
+- Built from commit: `184425d7`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -20,7 +20,7 @@
 - [[_COMMUNITY_Community 2|Community 2]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `Changelog` - 12 edges
+1. `Changelog` - 13 edges
 2. `Culver City Surgical Dashboard DocuPipe` - 6 edges
 3. `Projects` - 3 edges
 4. `2026-06-12 - DocuPipe live PNG upload tested` - 1 edges
@@ -40,8 +40,8 @@
 ## Communities (3 total, 0 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.15
-Nodes (12): 2026-05-28 — liteparse installed as primary document parser (Claude Code, Windows), 2026-05-29 — Added knowledge/ general-memory tree (hybrid: type folders + domain tags), 2026-05-29 — Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write), 2026-05-31 — Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset), 2026-05-31 — Global rule: auto-resume at the 5-hour reset, 2026-06-05 — Verification economy: six amendments applied (Claude Code + Codex), 2026-06-05 — Verification economy: stop conditions, not-notation rewrite, narration rule, 2026-06-05 — Verification economy: token-efficient proof ladder (Claude Code + Codex) (+4 more)
+Cohesion: 0.14
+Nodes (13): 2026-05-28 — liteparse installed as primary document parser (Claude Code, Windows), 2026-05-29 — Added knowledge/ general-memory tree (hybrid: type folders + domain tags), 2026-05-29 — Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write), 2026-05-31 — Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset), 2026-05-31 — Global rule: auto-resume at the 5-hour reset, 2026-06-05 — Verification economy: six amendments applied (Claude Code + Codex), 2026-06-05 — Verification economy: stop conditions, not-notation rewrite, narration rule, 2026-06-05 — Verification economy: token-efficient proof ladder (Claude Code + Codex) (+5 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.29
@@ -52,11 +52,13 @@ Cohesion: 0.50
 Nodes (3): Active Projects, Projects, Standard Project Structure
 
 ## Knowledge Gaps
-- **18 isolated node(s):** `2026-06-12 - DocuPipe live PNG upload tested`, `2026-06-12 - Culver City Surgical Dashboard DocuPipe clone`, `2026-06-11 — Culver City Surgical Dashboard mock interaction layer`, `2026-06-05 — Verification economy: stop conditions, not-notation rewrite, narration rule`, `2026-06-05 — Verification economy: six amendments applied (Claude Code + Codex)` (+13 more)
+- **19 isolated node(s):** `2026-06-12 - DocuPipe live PNG upload tested`, `2026-06-12 - Culver City Surgical Dashboard DocuPipe clone`, `2026-06-11 — Culver City Surgical Dashboard mock interaction layer`, `2026-06-05 — Verification economy: stop conditions, not-notation rewrite, narration rule`, `2026-06-05 — Verification economy: six amendments applied (Claude Code + Codex)` (+14 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `2026-06-12 - DocuPipe live PNG upload tested`, `2026-06-12 - Culver City Surgical Dashboard DocuPipe clone`, `2026-06-11 — Culver City Surgical Dashboard mock interaction layer` to the rest of the system?**
-  _18 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _19 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Should `Community 0` be split into smaller, more focused modules?**
+  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._

@@ -121,6 +121,15 @@
       "norm_label": "2026-05-28 \u2014 liteparse installed as primary document parser (claude code, windows)"
     },
     {
+      "label": "2026-06-12 \u2014 DocuPipe clone schema draft action",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L62",
+      "id": "meta_changelog_2026_06_12_docupipe_clone_schema_draft_action",
+      "community": 0,
+      "norm_label": "2026-06-12 \u2014 docupipe clone schema draft action"
+    },
+    {
       "label": "00 Brief.md",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
@@ -178,7 +187,7 @@
       "label": "Next",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L37",
+      "source_location": "L38",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_next",
       "community": 1,
       "norm_label": "next"
@@ -335,11 +344,21 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "meta/changelog.md",
-      "source_location": "L5",
+      "source_location": "L62",
       "weight": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_12_docupipe_live_png_upload_tested",
+      "target": "meta_changelog_2026_06_12_docupipe_clone_schema_draft_action",
       "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_12_docupipe_live_png_upload_tested"
     },
     {
       "relation": "contains",
@@ -433,5 +452,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "383eadb3f16bd3c109c9954d3eeb0160908d5b59"
+  "built_at_commit": "184425d794706eca84e39d847b11f0591bb53a27"
 }
