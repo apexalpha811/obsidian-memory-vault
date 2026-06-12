@@ -2,6 +2,10 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-06-12 - Culver City Surgical Dashboard DocuPipe clone
+- Created project memory for `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`.
+- Recorded that the original dashboard stayed unchanged, the clone runs on `http://localhost:8742`, and verification passed for mock DocuPipe upload, standardization, Stedi preview, dashboard insertion, and Print Center.
+
 ## 2026-06-11 — Culver City Surgical Dashboard mock interaction layer
 - Resumed work on `C:\Users\kv8n11\culver-city-surgical-dashboard/`. Fixed missing closing paren in eligibility detail function (SyntaxError from concise-to-block-arrow conversion). Added toast system, drawerAct/drawerX12 helpers, X12 viewers, and onclick handlers to all mock action buttons. Committed 47 insert/12 delete. Added session note to graphify knowledge base.
 
