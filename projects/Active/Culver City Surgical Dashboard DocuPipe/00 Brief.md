@@ -12,6 +12,7 @@
 - Default mode is `APP_MODE=mock`.
 - The clone includes a dependency-free Node proxy, DocuPipe intake UI, editable schema modules, target-specific `Create schema` drafts, Stedi payload preview, dashboard insertion, and Print Center.
 - Partial DocuPipe extractions auto-import into the dashboard with a `partial` badge and missing-field warnings, instead of stopping at review.
+- Live claim standardizations map the flat DocuPipe payload shape, so `claimId` / `patientName` / `payer` / `billedAmount` / `serviceLines` populate the claim drawer correctly.
 
 ## Added Clone Files
 
@@ -36,6 +37,7 @@
 - Live result: document `QC3CFTsP`, job `lhDjlUD1`, both completed. One PNG page parsed, language `en`, result length `770`, 1 credit, processing time about `3.37s`.
 - `Create schema` action verified in Chrome. It seeds a fresh target preset, flips the schema state to `draft created`, and selects the new module in the editor.
 - Partial auto-import verified in Chrome with a synthetic claim. The claims queue accepted a record built from only `patient.fullName`, `claim.claimNumber`, and `diagnosisCodes`, and the import badge read `partial: professionalClaim837P`.
+- Live import verified with `Untitled.png` and schema `3CNrau0Z`. The claim drawer now shows `Marcus Marquez`, `Anthem Blue Cross CA`, `Dr. Alejandro Reyes, MD`, and billed `$20,408` instead of the generic imported shell.
 
 ## Next
 

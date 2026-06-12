@@ -68,3 +68,7 @@ Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 - In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, partial DocuPipe standardizations now auto-import into the dashboard.
 - The imported record panel labels these imports as `partial` and shows the missing-field warnings next to the extracted data.
 - Verified in Chrome with a synthetic partial claim: the claims queue received `CLM-PARTIAL-002`, the import badge read `partial: professionalClaim837P`, and the dashboard stayed error-free.
+
+## 2026-06-12 — DocuPipe live claim mapping fix
+- In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, live claim standardizations now map DocuPipe's flat claim payload shape into the dashboard preview.
+- Verified with `C:\Users\kv8n11\Downloads\Untitled.png` and schema `3CNrau0Z`: the imported record surfaced `Marcus Marquez`, `Anthem Blue Cross CA`, `Dr. Alejandro Reyes, MD`, billed `$20,408`, and the correct CPT line list.
