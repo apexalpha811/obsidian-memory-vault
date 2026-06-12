@@ -22,10 +22,19 @@
       "norm_label": "changelog"
     },
     {
-      "label": "2026-06-11 \u2014 Culver City Surgical Dashboard mock interaction layer",
+      "label": "2026-06-12 - Culver City Surgical Dashboard DocuPipe clone",
       "file_type": "document",
       "source_file": "meta/changelog.md",
       "source_location": "L5",
+      "id": "meta_changelog_2026_06_12_culver_city_surgical_dashboard_docupipe_clone",
+      "community": 0,
+      "norm_label": "2026-06-12 - culver city surgical dashboard docupipe clone"
+    },
+    {
+      "label": "2026-06-11 \u2014 Culver City Surgical Dashboard mock interaction layer",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L9",
       "id": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer",
       "community": 0,
       "norm_label": "2026-06-11 \u2014 culver city surgical dashboard mock interaction layer"
@@ -34,7 +43,7 @@
       "label": "2026-06-05 \u2014 Verification economy: stop conditions, not-notation rewrite, narration rule",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L8",
+      "source_location": "L12",
       "id": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: stop conditions, not-notation rewrite, narration rule"
@@ -43,7 +52,7 @@
       "label": "2026-06-05 \u2014 Verification economy: six amendments applied (Claude Code + Codex)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L12",
+      "source_location": "L16",
       "id": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: six amendments applied (claude code + codex)"
@@ -52,7 +61,7 @@
       "label": "2026-06-05 \u2014 Verification economy: token-efficient proof ladder (Claude Code + Codex)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L16",
+      "source_location": "L20",
       "id": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: token-efficient proof ladder (claude code + codex)"
@@ -61,7 +70,7 @@
       "label": "2026-05-31 \u2014 Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L23",
+      "source_location": "L27",
       "id": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset",
       "community": 0,
       "norm_label": "2026-05-31 \u2014 auto-resume mechanism wired up (ccusage + sessionstart hook + /check_reset)"
@@ -70,7 +79,7 @@
       "label": "2026-05-31 \u2014 Global rule: auto-resume at the 5-hour reset",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L29",
+      "source_location": "L33",
       "id": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset",
       "community": 0,
       "norm_label": "2026-05-31 \u2014 global rule: auto-resume at the 5-hour reset"
@@ -79,7 +88,7 @@
       "label": "2026-05-29 \u2014 Added knowledge/ general-memory tree (hybrid: type folders + domain tags)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L37",
+      "source_location": "L41",
       "id": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags",
       "community": 0,
       "norm_label": "2026-05-29 \u2014 added knowledge/ general-memory tree (hybrid: type folders + domain tags)"
@@ -88,7 +97,7 @@
       "label": "2026-05-29 \u2014 Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L42",
+      "source_location": "L46",
       "id": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write",
       "community": 0,
       "norm_label": "2026-05-29 \u2014 claude code wired to obsidian vault via obsidian-mcp (global, read+write)"
@@ -97,10 +106,109 @@
       "label": "2026-05-28 \u2014 liteparse installed as primary document parser (Claude Code, Windows)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L47",
+      "source_location": "L51",
       "id": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows",
       "community": 0,
       "norm_label": "2026-05-28 \u2014 liteparse installed as primary document parser (claude code, windows)"
+    },
+    {
+      "label": "00 Brief.md",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L1",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief",
+      "community": 1,
+      "norm_label": "00 brief.md"
+    },
+    {
+      "label": "Culver City Surgical Dashboard DocuPipe",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L1",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "community": 1,
+      "norm_label": "culver city surgical dashboard docupipe"
+    },
+    {
+      "label": "Location",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L3",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_location",
+      "community": 1,
+      "norm_label": "location"
+    },
+    {
+      "label": "Current State",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L8",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_current_state",
+      "community": 1,
+      "norm_label": "current state"
+    },
+    {
+      "label": "Added Clone Files",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L15",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files",
+      "community": 1,
+      "norm_label": "added clone files"
+    },
+    {
+      "label": "Verification",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L26",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_verification",
+      "community": 1,
+      "norm_label": "verification"
+    },
+    {
+      "label": "Next",
+      "file_type": "document",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L34",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_next",
+      "community": 1,
+      "norm_label": "next"
+    },
+    {
+      "label": "_Index.md",
+      "file_type": "document",
+      "source_file": "projects/_Index.md",
+      "source_location": "L1",
+      "id": "projects_index",
+      "community": 2,
+      "norm_label": "_index.md"
+    },
+    {
+      "label": "Projects",
+      "file_type": "document",
+      "source_file": "projects/_Index.md",
+      "source_location": "L1",
+      "id": "projects_index_projects",
+      "community": 2,
+      "norm_label": "projects"
+    },
+    {
+      "label": "Standard Project Structure",
+      "file_type": "document",
+      "source_file": "projects/_Index.md",
+      "source_location": "L5",
+      "id": "projects_index_standard_project_structure",
+      "community": 2,
+      "norm_label": "standard project structure"
+    },
+    {
+      "label": "Active Projects",
+      "file_type": "document",
+      "source_file": "projects/_Index.md",
+      "source_location": "L17",
+      "id": "projects_index_active_projects",
+      "community": 2,
+      "norm_label": "active projects"
     }
   ],
   "links": [
@@ -110,9 +218,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog",
-      "target": "meta_changelog_changelog",
-      "confidence_score": 1.0
+      "target": "meta_changelog_changelog"
     },
     {
       "relation": "contains",
@@ -120,9 +228,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L47",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows"
     },
     {
       "relation": "contains",
@@ -130,9 +238,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags"
     },
     {
       "relation": "contains",
@@ -140,9 +248,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L42",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write"
     },
     {
       "relation": "contains",
@@ -150,9 +258,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset"
     },
     {
       "relation": "contains",
@@ -160,9 +268,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L29",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset"
     },
     {
       "relation": "contains",
@@ -170,9 +278,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex"
     },
     {
       "relation": "contains",
@@ -180,9 +288,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule"
     },
     {
       "relation": "contains",
@@ -190,9 +298,19 @@
       "source_file": "meta/changelog.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer"
     },
     {
       "relation": "contains",
@@ -201,10 +319,100 @@
       "source_location": "L5",
       "weight": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer",
+      "target": "meta_changelog_2026_06_12_culver_city_surgical_dashboard_docupipe_clone",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "culver_city_surgical_dashboard_docupipe_00_brief",
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_current_state",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_location",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_next",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_verification",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/_Index.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "projects_index",
+      "target": "projects_index_projects",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/_Index.md",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "projects_index_projects",
+      "target": "projects_index_active_projects",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "projects/_Index.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "projects_index_projects",
+      "target": "projects_index_standard_project_structure",
       "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "0ed14a18ad6b60f452cb1a7c467a84dc71344d09"
+  "built_at_commit": "65746312db72be4fc2e74a4944d66c155aaaba4e"
 }

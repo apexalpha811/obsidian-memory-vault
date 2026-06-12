@@ -825,8 +825,8 @@
     "semantic_hash": ""
   },
   "meta/changelog.md": {
-    "mtime": 1781227388.6045341,
-    "ast_hash": "ea59c559fe7648d3be272ae59b3ba857",
+    "mtime": 1781288402.6485038,
+    "ast_hash": "7ca074416ee121f6ba51febfdbec6f37",
     "semantic_hash": ""
   },
   "projects/Active/Playa Vista ASC/00 Brief.md": {
@@ -840,8 +840,13 @@
     "semantic_hash": ""
   },
   "projects/_Index.md": {
-    "mtime": 1780088238.213766,
-    "ast_hash": "145bf5b222839f44d186c32843f93bd4",
+    "mtime": 1781288395.4289734,
+    "ast_hash": "44d9444a5fae06e5ceea74cb73a56cef",
+    "semantic_hash": ""
+  },
+  "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md": {
+    "mtime": 1781288388.710716,
+    "ast_hash": "26c0e02fe3132181fa3cbc17d6b0484c",
     "semantic_hash": ""
   }
 }
