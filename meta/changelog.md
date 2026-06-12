@@ -63,3 +63,8 @@ Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 - In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, added a `Create schema` action to the DocuPipe module editor.
 - The action creates a fresh target-specific schema draft, persists it in the clone, and keeps `Duplicate as new` as the exact-copy path.
 - Verified in Chrome: the draft state flips to `draft created`, the module selector points at the new schema, and the eligibility preset renders into the JSON schema textarea when `eligibility270` is selected.
+
+## 2026-06-12 — DocuPipe partial import auto-add
+- In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, partial DocuPipe standardizations now auto-import into the dashboard.
+- The imported record panel labels these imports as `partial` and shows the missing-field warnings next to the extracted data.
+- Verified in Chrome with a synthetic partial claim: the claims queue received `CLM-PARTIAL-002`, the import badge read `partial: professionalClaim837P`, and the dashboard stayed error-free.
