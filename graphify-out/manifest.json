@@ -1,0 +1,847 @@
+{
+  ".obsidian/app.json": {
+    "mtime": 1780956754.2062986,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": ""
+  },
+  ".obsidian/appearance.json": {
+    "mtime": 1780956754.2090826,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": ""
+  },
+  ".obsidian/community-plugins.json": {
+    "mtime": 1780956755.254856,
+    "ast_hash": "8d9c900a73aa9222bd84ab30743db83f",
+    "semantic_hash": ""
+  },
+  ".obsidian/core-plugins.json": {
+    "mtime": 1780956754.1825757,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": ""
+  },
+  ".obsidian/graph.json": {
+    "mtime": 1780956799.121,
+    "ast_hash": "e753ec9b47c1832625fa4e1fb2c1b175",
+    "semantic_hash": ""
+  },
+  ".obsidian/plugins/dataview/main.js": {
+    "mtime": 1779670915.8542702,
+    "ast_hash": "8ddd18d36bfef5c241e7d147f8b31d27",
+    "semantic_hash": ""
+  },
+  ".obsidian/plugins/dataview/manifest.json": {
+    "mtime": 1779670915.509378,
+    "ast_hash": "d32e8819a2a4841067c0a4e8055cc22f",
+    "semantic_hash": ""
+  },
+  ".obsidian/plugins/obsidian-git/data.json": {
+    "mtime": 1779671909.248,
+    "ast_hash": "ca97520341ffb0bd01c52e60524244dc",
+    "semantic_hash": ""
+  },
+  ".obsidian/plugins/obsidian-git/main.js": {
+    "mtime": 1779671111.7530396,
+    "ast_hash": "450b393a063b5415a558f98517a29cfb",
+    "semantic_hash": ""
+  },
+  ".obsidian/plugins/obsidian-git/manifest.json": {
+    "mtime": 1779671111.5350144,
+    "ast_hash": "36ffb854cdfaf809edcca20ba00932ed",
+    "semantic_hash": ""
+  },
+  ".obsidian/plugins/obsidian-git/obsidian_askpass.sh": {
+    "mtime": 1780956755.5890129,
+    "ast_hash": "f662d5f216d371e86d1b108ba5d22a5f",
+    "semantic_hash": ""
+  },
+  ".obsidian/workspace.json": {
+    "mtime": 1780956755.3208828,
+    "ast_hash": "cee3e4915f6f9ccab534b8d40e1e7e79",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/.obsidian/graph.json": {
+    "mtime": 1780956631.63665,
+    "ast_hash": "26dc43aaa93d4fd74ce9a2aa458c8535",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/.obsidian/graph.json": {
+    "mtime": 1780956632.122358,
+    "ast_hash": "231d43b357327f12f848fa12cc68dca3",
+    "semantic_hash": ""
+  },
+  "setup.sh": {
+    "mtime": 1779669727.4093885,
+    "ast_hash": "2084de96bbc70a01efd2b03edd07a858",
+    "semantic_hash": ""
+  },
+  "AI/Codex/README.md": {
+    "mtime": 1780088238.2127664,
+    "ast_hash": "56ecf39ad700ad76510512c57287299f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/1. Brand Overview.md": {
+    "mtime": 1780956629.537784,
+    "ast_hash": "6fbcb9e80827d2452880b6cb48eecd0f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/10. Application Examples.md": {
+    "mtime": 1780956630.2245605,
+    "ast_hash": "c343a08952f0de474f1eef4e8a297ca5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/11. File Naming Convention.md": {
+    "mtime": 1780956630.2472506,
+    "ast_hash": "bab43fbedd3a2f40815fb568dd73d964",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/2. Logo.md": {
+    "mtime": 1780956629.5568187,
+    "ast_hash": "826f1da9b8e3fd3bdbc35577c997df27",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/3. Color Palette.md": {
+    "mtime": 1780956629.6602342,
+    "ast_hash": "e0a8fa0b482aafbe05e71eb261a5f0b3",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/4. Typography.md": {
+    "mtime": 1780956629.7542183,
+    "ast_hash": "257c1a4e3d6d9e2b9913db35891470dc",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/5. Imagery & Iconography.md": {
+    "mtime": 1780956629.8724246,
+    "ast_hash": "99001711b9efdf86cabb97caed98781f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/6. UI Components.md": {
+    "mtime": 1780956629.9587657,
+    "ast_hash": "a40a8f65679119ec6a58459fb66673ca",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/7. Layout & Grid.md": {
+    "mtime": 1780956630.0443063,
+    "ast_hash": "b8c928339add8403d21f0de266ddf4fc",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/8. Voice & Tone.md": {
+    "mtime": 1780956630.0974233,
+    "ast_hash": "e03fe99c9243701c4973e51f585f7625",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/A-NATION Media \u2014 Brand Design Guidelines.md": {
+    "mtime": 1780956629.521636,
+    "ast_hash": "c53ac847c29cd2a1ca6ee034a81303fa",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/API Reference.md": {
+    "mtime": 1780956629.3479116,
+    "ast_hash": "b78ddb3aa125a0be54f96a4b405582b3",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/BRAND IDENTITY.md": {
+    "mtime": 1780956630.287965,
+    "ast_hash": "f5138b7223d2d6f177cb762248fee12a",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/BeautifulSoup.md": {
+    "mtime": 1780956628.7514944,
+    "ast_hash": "a68240cc3690794c053d4418cbab17e5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Body Font Montserrat.md": {
+    "mtime": 1780956629.815914,
+    "ast_hash": "7bd0410d20d497260d0657f29d3c4933",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Brand Voice Principles.md": {
+    "mtime": 1780956630.1139812,
+    "ast_hash": "dce1d2f18840df2ac70bb0dc9c7c9cb5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Buttons.md": {
+    "mtime": 1780956629.9904933,
+    "ast_hash": "66762764421d9eb026885d4bd522169f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/COLOR PALETTE.md": {
+    "mtime": 1780956631.3512962,
+    "ast_hash": "05b39cc48276942668bce3a28a684a6a",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Cards.md": {
+    "mtime": 1780956630.0083008,
+    "ast_hash": "b5f6a369da0154e8d249d6ef8fed39b4",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Clear Space.md": {
+    "mtime": 1780956629.6133647,
+    "ast_hash": "f4f835724b30c31fdca53ca2709786d8",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Configuration.md": {
+    "mtime": 1780956629.3957822,
+    "ast_hash": "e0b08137e1f58bcead904cfd7d19f16b",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Convert HTML to clean markdown..md": {
+    "mtime": 1780956628.894297,
+    "ast_hash": "354f1e0d617a8f2ccf2355c0ffc1387c",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/DESIGN RULES.md": {
+    "mtime": 1780956631.4008079,
+    "ast_hash": "6ec374b3d28d585514519f3445efb310",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Do Say.md": {
+    "mtime": 1780956630.1317937,
+    "ast_hash": "28a996b58c412276a48c24cffee5be7f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Don't Say.md": {
+    "mtime": 1780956630.1525176,
+    "ast_hash": "5c2be8e0e2440d2b35c6fe9b9bb23e61",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Extract page metadata..md": {
+    "mtime": 1780956628.9028451,
+    "ast_hash": "07ebf01e45f90313f80977517c8fa246",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Features.md": {
+    "mtime": 1780956629.236774,
+    "ast_hash": "a0abafda86e0e093fa3f5f012bf70444",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Firecrawl-copycat API server.  A self-hosted web scraping API powered by CloakBr.md": {
+    "mtime": 1780956629.102553,
+    "ast_hash": "e4e8df44e35527996728f4a35b2e1d2d",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Firecrawl-copycat \u2014 stealth web scraper powered by CloakBrowser.  Scrapes any UR.md": {
+    "mtime": 1780956628.8569653,
+    "ast_hash": "9fea3d7ebc8f91514f0c6b4d483a55e7",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Firecrawl-copycat \ud83d\udd78\ufe0f\ud83d\udee1\ufe0f.md": {
+    "mtime": 1780956629.2133873,
+    "ast_hash": "98c2784fb13b0513a9130d56cc7ab98e",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Golden Ratio.md": {
+    "mtime": 1780956630.083716,
+    "ast_hash": "ccc3cb7b5fa1ecbb04fc45665ec7047f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Gradient (Logo).md": {
+    "mtime": 1780956629.699445,
+    "ast_hash": "c9965f753e40c3d28874bce6aba2eb40",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Health Check.md": {
+    "mtime": 1780956629.3077743,
+    "ast_hash": "e791c97fa91024c22dc2dfadd73fd6c9",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Health check endpoint..md": {
+    "mtime": 1780956629.126578,
+    "ast_hash": "21cd74fcd6c537a62df5db925c4ee3a0",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/How it works.md": {
+    "mtime": 1780956629.4228237,
+    "ast_hash": "9776ee71b72781de58f00989b0a5885f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Iconography.md": {
+    "mtime": 1780956629.927064,
+    "ast_hash": "ebf95485cb5798c80624e5aef9c96eb4",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/License.md": {
+    "mtime": 1780956629.4850888,
+    "ast_hash": "477ffd6febfefbd1b0d363c86f1d6c9e",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Logo Variations.md": {
+    "mtime": 1780956629.5952325,
+    "ast_hash": "2ab7b0d9a798ede5048195fa964540f4",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Minimum Size.md": {
+    "mtime": 1780956629.6270099,
+    "ast_hash": "1e30aa5b9ca9bdb6e046ec590f3cfe66",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/NFT Badges.md": {
+    "mtime": 1780956630.2113192,
+    "ast_hash": "f149e52e7edda4875d6afaf91524706b",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Navigation.md": {
+    "mtime": 1780956630.0271966,
+    "ast_hash": "8e77555fb345da76c7e7cd5ff61bb566",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/OUTPUT.md": {
+    "mtime": 1780956631.4129038,
+    "ast_hash": "d9dd51c0550c9947f06c5f0a8693f50d",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/POST requests.md": {
+    "mtime": 1780956629.327614,
+    "ast_hash": "75a0d980f5c6985e3bcb874e1e89b06a",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Photography Style.md": {
+    "mtime": 1780956629.9149868,
+    "ast_hash": "ee7727e3a0791eae1270c2715ce88de7",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Primary Colors.md": {
+    "mtime": 1780956629.6776829,
+    "ast_hash": "d867a5db336f11b6be36ba5a5bd37820",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Primary Display  Heading Font Ethnocentric.md": {
+    "mtime": 1780956629.7787051,
+    "ast_hash": "ac4f6b4aa5d34fdcd235488b30429d43",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Primary Logo.md": {
+    "mtime": 1780956629.5774035,
+    "ast_hash": "b33451f4d2b8dd5dc9d8ff996e96a57c",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Prohibited Uses.md": {
+    "mtime": 1780956629.6485424,
+    "ast_hash": "cbbc9c5c33086bc242fb9b258fa8d7f6",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Quick Start.md": {
+    "mtime": 1780956629.2570596,
+    "ast_hash": "da211bf9a9aa5fba307af5e7805e4746",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/README.md": {
+    "mtime": 1780956629.2026393,
+    "ast_hash": "5ab5651e124c4ce7dbdee154bb9d0b58",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Response (format=json).md": {
+    "mtime": 1780956629.3803241,
+    "ast_hash": "68e78bf3ba240bbb1b55a975a770256f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Result from scraping a URL..md": {
+    "mtime": 1780956628.8768742,
+    "ast_hash": "10b6aa4a86eb637773ad25380720da48",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Scrape a URL and return clean content.      Like Firecrawl's scrape endpoint, b.md": {
+    "mtime": 1780956629.139458,
+    "ast_hash": "b30be70e63b1ed7a00aecf31ee4af838",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Scrape a URL using CloakBrowser (stealth Playwright).      Args         url Th.md": {
+    "mtime": 1780956628.9190733,
+    "ast_hash": "f16a9e58ff000be2854464a024e758d5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Scrape a URL.md": {
+    "mtime": 1780956629.295219,
+    "ast_hash": "4c30c70197a7e8852097abb9714a2d89",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/ScrapeResult.md": {
+    "mtime": 1780956628.6902027,
+    "ast_hash": "7df2cbc0496122beab0e026b0c98e0ee",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Secondary Colors.md": {
+    "mtime": 1780956629.7205164,
+    "ast_hash": "f57dae3cc77673d22b21a5d44764ee40",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Secondary Heading Font Orbitron.md": {
+    "mtime": 1780956629.798218,
+    "ast_hash": "00b8efa210eb075c657c08669be1f013",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Special Treatments.md": {
+    "mtime": 1780956629.8478644,
+    "ast_hash": "b06df5fa1b634d97891ccf11f8dde0dd",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Synchronous wrapper for scrape_with_cloak..md": {
+    "mtime": 1780956628.9413872,
+    "ast_hash": "2457d4a830b7feba774779f8a1e07834",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/TYPOGRAPHY.md": {
+    "mtime": 1780956631.3772283,
+    "ast_hash": "59146917a6b6da620a00cb8151f96290",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Tech Stack.md": {
+    "mtime": 1780956629.465228,
+    "ast_hash": "9217ffeacf21a385b881ad88d3a988c5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Theme Structure.md": {
+    "mtime": 1780956629.7414117,
+    "ast_hash": "1ac22cb2fd7a3330c0a5529acd6fed35",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Type Scale.md": {
+    "mtime": 1780956629.8317664,
+    "ast_hash": "40717554f81195a1006357d20da271b9",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Usage.md": {
+    "mtime": 1780956629.2756443,
+    "ast_hash": "149e7960bbf8423b8be35c8ddd30e588",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Using with Claude.md": {
+    "mtime": 1780956629.4454503,
+    "ast_hash": "577754f5035d22e36be59f9fc880b96b",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Video  Motion.md": {
+    "mtime": 1780956629.9428656,
+    "ast_hash": "493688abea22932f669a05c6d9af1d60",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/Web Layout.md": {
+    "mtime": 1780956630.0609665,
+    "ast_hash": "bde3c86a5cb8c59233aa2fcf564288c7",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 0.md": {
+    "mtime": 1780956631.5234733,
+    "ast_hash": "bb86a2f3504f3b957ce18aaf1a997821",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 1.md": {
+    "mtime": 1780956631.5069056,
+    "ast_hash": "a944fb633192ffddd4f64abe8de497ca",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 10.md": {
+    "mtime": 1780956631.4927783,
+    "ast_hash": "88d59649a5976d2b1fef786661efca0a",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 11.md": {
+    "mtime": 1780956631.6195855,
+    "ast_hash": "63621aa2f45ff2392005988857ecd2ed",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 2.md": {
+    "mtime": 1780956631.457538,
+    "ast_hash": "59781ac60fdfc1ac6f602f622a3219a8",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 3.md": {
+    "mtime": 1780956631.4761932,
+    "ast_hash": "c7c438f685fbbad4697ec863b8d7bc6c",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 4.md": {
+    "mtime": 1780956631.554921,
+    "ast_hash": "9c4cc7a82b2bb7c36f67e0b5b9c5c052",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 5.md": {
+    "mtime": 1780956631.6030214,
+    "ast_hash": "943256396b3dd6524942d90badade5dd",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 6.md": {
+    "mtime": 1780956631.539273,
+    "ast_hash": "9d498fcaae09948a42a893e89237b62d",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 7.md": {
+    "mtime": 1780956631.5676699,
+    "ast_hash": "5d30ae71f7cf038b25130b8cf8e5a6c2",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 8.md": {
+    "mtime": 1780956631.5778525,
+    "ast_hash": "6c47da0867fe50a688c88441030181ae",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/_COMMUNITY_Community 9.md": {
+    "mtime": 1780956631.5929613,
+    "ast_hash": "53898869e0b3f8be298432c1d0df8903",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/`GET scrape`  `POST scrape`.md": {
+    "mtime": 1780956629.364815,
+    "ast_hash": "60ba4f1d46b779bee420bd92c2a7555f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/anation-brand-guidelines.md": {
+    "mtime": 1780956629.493213,
+    "ast_hash": "4fd84960b284735b26201b77b6b51fa3",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/anation-claude-prompt-template.md": {
+    "mtime": 1780956630.270105,
+    "ast_hash": "d7e2be241f8f8a957c2b41d4d69cc180",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/bool.md": {
+    "mtime": 1780956628.8231206,
+    "ast_hash": "1b128aa106adb02d61cf47fa15e923ec",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/bool_1.md": {
+    "mtime": 1780956629.0457091,
+    "ast_hash": "5e00f6491d0dbf696d238e58c3715efd",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/design-style-prompt-template.md": {
+    "mtime": 1780956631.4370532,
+    "ast_hash": "969f846d8142bab21b549c88e8ead502",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/extract_metadata().md": {
+    "mtime": 1780956628.7397017,
+    "ast_hash": "d3d42dbdb9c81ff337df7733eb19ddbc",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/health().md": {
+    "mtime": 1780956628.9824574,
+    "ast_hash": "e223aa97fe1080f82d4a94f2ace0781d",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/html_to_markdown().md": {
+    "mtime": 1780956628.704062,
+    "ast_hash": "2eefbad5ebc3a7b4223f9ec153eeae1e",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/int.md": {
+    "mtime": 1780956628.7991972,
+    "ast_hash": "1f079393d40a28728cd324562fbb7e41",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/int_1.md": {
+    "mtime": 1780956629.032484,
+    "ast_hash": "1e6f6ad861d3118191c4d1266109c0ca",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/main().md": {
+    "mtime": 1780956629.0862975,
+    "ast_hash": "397b15698a69dae7ea6a115e0f3123ee",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/root().md": {
+    "mtime": 1780956629.0670366,
+    "ast_hash": "bc215eb6f1208137dd76e1cf9f3e1616",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/scrape().md": {
+    "mtime": 1780956628.8390288,
+    "ast_hash": "39ced74ec8af76d9550f5da1f99b79cd",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/scrape_endpoint().md": {
+    "mtime": 1780956628.9983375,
+    "ast_hash": "ecf1871ad707a445ac27fc8ece7b00df",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/scrape_with_cloak().md": {
+    "mtime": 1780956628.7832286,
+    "ast_hash": "e35823b64ba05d9f625023a08c9138cc",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/scraper.py.md": {
+    "mtime": 1780956631.670665,
+    "ast_hash": "aec1f084ba3c793d8f8fcc3518b0e2b8",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/server.py.md": {
+    "mtime": 1780956628.962978,
+    "ast_hash": "4174f790fe57ac4cdd3ee875d1f604c4",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/setup.sh script.md": {
+    "mtime": 1780956629.1805968,
+    "ast_hash": "0d8e786d97645469abca7d35c187024c",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/setup.sh.md": {
+    "mtime": 1780956629.162704,
+    "ast_hash": "3303ce62ccb93783f8a016e1c9e05b85",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/str.md": {
+    "mtime": 1780956628.7217648,
+    "ast_hash": "1cd4f61167c25f099ab9039ddcffffb1",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/Firecrawl-copycat/str_1.md": {
+    "mtime": 1780956629.015811,
+    "ast_hash": "70f968ec278c5ba211ff06ddd505c28a",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Architecture (Approach 2 \u2014 HTML is the source).md": {
+    "mtime": 1780956631.911415,
+    "ast_hash": "36b6e50e21eeefd9eb1f49cc4a847455",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Assets.md": {
+    "mtime": 1780956632.0780127,
+    "ast_hash": "c537d780d3b366adc03bdd84c44fb57c",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Browser behavior.md": {
+    "mtime": 1780956632.0286236,
+    "ast_hash": "248b5421ceff26be7a561a057359be8b",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Build a PDF Form XObject (used for checkbox AP appearance streams).     The con.md": {
+    "mtime": 1780956631.8350103,
+    "ast_hash": "25e36a7336797da9d8c4879313759ea5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Build the fillable Pain Chart PDF from index.html (Approach 2 pipeline).  Pipeli.md": {
+    "mtime": 1780956631.8065689,
+    "ast_hash": "3d4bc06eb21beff230eb21da1c126de4",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Culver City Surgical \u2014 Pain Chart Form 2026 (PI Cases, English).md": {
+    "mtime": 1780956631.8937824,
+    "ast_hash": "4c6a4ee2ed2e8e8089b6c5b2a9a4ce64",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Deploying online (Vercel).md": {
+    "mtime": 1780956631.9696054,
+    "ast_hash": "f8daf6f51de93f4473b50c4f6afc7840",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Field structure.md": {
+    "mtime": 1780956631.9931269,
+    "ast_hash": "6c2b5975ff19a56a6b1ebfaf3ba08435",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Open flat_print.pdf, build AcroForm overlay with Kids merge for shared names..md": {
+    "mtime": 1780956631.8546493,
+    "ast_hash": "d70072c2fbac91e5eb712027992c8104",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Pages.md": {
+    "mtime": 1780956632.010929,
+    "ast_hash": "96fa958688783b268d9d0a4912d2356f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/README.md": {
+    "mtime": 1780956631.8730705,
+    "ast_hash": "6481e2d5f3205f00a3bb698999eabb0f",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Rebuilding the PDF.md": {
+    "mtime": 1780956631.9574876,
+    "ast_hash": "92dcd39fb1940abe81913b5d9ed39778",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Run Playwright print HTML to PDF, extract widget coords per page.      Critical.md": {
+    "mtime": 1780956631.8225553,
+    "ast_hash": "d3969995b0f2c1e2fca237ef2c699c84",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/Why `Kids` matters.md": {
+    "mtime": 1780956631.938516,
+    "ast_hash": "3fefa2a1e2f770e25656e6439fbaeeb3",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/_COMMUNITY_Community 0.md": {
+    "mtime": 1780956632.106549,
+    "ast_hash": "afc066d38ac83c518d1ecc98484b41b5",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/_COMMUNITY_Community 1.md": {
+    "mtime": 1780956632.0958529,
+    "ast_hash": "0d66ebc63af6c6e2bb22dfdf3814bde3",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/_make_form_xobject().md": {
+    "mtime": 1780956631.7558692,
+    "ast_hash": "76dfb43834efa293a256c820d7db0e15",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/build_pdf.py.md": {
+    "mtime": 1780956631.7196183,
+    "ast_hash": "4cb80278672bc4ee1e5e93cd27482bf9",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/main().md": {
+    "mtime": 1780956631.788027,
+    "ast_hash": "b8e5e6a735c00f1cc45ab6e51acddfeb",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/overlay_form_fields().md": {
+    "mtime": 1780956631.771587,
+    "ast_hash": "f60e1de37df39c904b302a6729f7b196",
+    "semantic_hash": ""
+  },
+  "Archive/saved-graphs/ccs_pain_chart_form_EN/render_html_and_extract().md": {
+    "mtime": 1780956631.739751,
+    "ast_hash": "300bc9ca30e451e5d43c60dbf3835131",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1779669699.145935,
+    "ast_hash": "37261b2c41bd6588e936e4451e8a0c5b",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1779669709.1217732,
+    "ast_hash": "d2dc2bf36ba22c9d5aefb86cb7b10e5c",
+    "semantic_hash": ""
+  },
+  "_index.md": {
+    "mtime": 1780278958.7026289,
+    "ast_hash": "bcb8718cacc6df9efc8d3c7107442981",
+    "semantic_hash": ""
+  },
+  "agents/claude-code/README.md": {
+    "mtime": 1780646041.2472873,
+    "ast_hash": "da7e8a5b1af202f2517d55ed09f3a7c9",
+    "semantic_hash": ""
+  },
+  "agents/hermes/README.md": {
+    "mtime": 1779669685.642338,
+    "ast_hash": "0e05e54327aa96182faed0aec0b0a08c",
+    "semantic_hash": ""
+  },
+  "design-systems/a-nation-media.md": {
+    "mtime": 1779667224.6517832,
+    "ast_hash": "df7cddc3e42aef52688a3aad68c11f9d",
+    "semantic_hash": ""
+  },
+  "design-systems/transform9.md": {
+    "mtime": 1779667229.7606301,
+    "ast_hash": "d10e7b9ac89b6537762fe5e8010482c5",
+    "semantic_hash": ""
+  },
+  "global/session-auto-resume.md": {
+    "mtime": 1780279419.8183246,
+    "ast_hash": "f46515d7acc157eb8ad70c4b1932e095",
+    "semantic_hash": ""
+  },
+  "global/time-format.md": {
+    "mtime": 1780278955.110543,
+    "ast_hash": "423cbd913a75eddc8469d98ea7840615",
+    "semantic_hash": ""
+  },
+  "global/timezone.md": {
+    "mtime": 1779672160.2880528,
+    "ast_hash": "e1f36dcf2cf138d4d1593c6d1dbda2aa",
+    "semantic_hash": ""
+  },
+  "global/user-profile.md": {
+    "mtime": 1780452155.3765352,
+    "ast_hash": "881dfded4206fc461d6203fac9f3956d",
+    "semantic_hash": ""
+  },
+  "knowledge/README.md": {
+    "mtime": 1780039070.174987,
+    "ast_hash": "1779ee9e3683dee20ce5720a33b4cc6c",
+    "semantic_hash": ""
+  },
+  "knowledge/decisions/2026-05-29-memory-loading-via-hooks.md": {
+    "mtime": 1780040499.592538,
+    "ast_hash": "fff5fa5a25511b39bfebee095850fea7",
+    "semantic_hash": ""
+  },
+  "knowledge/decisions/2026-06-08-graphify-multi-agent-setup.md": {
+    "mtime": 1780958724.1683295,
+    "ast_hash": "d79462cace3234348832c13976d8f761",
+    "semantic_hash": ""
+  },
+  "knowledge/decisions/README.md": {
+    "mtime": 1780039082.419753,
+    "ast_hash": "761191551182230cf46f6ced46fa9d45",
+    "semantic_hash": ""
+  },
+  "knowledge/people/README.md": {
+    "mtime": 1780039076.3610995,
+    "ast_hash": "eb18d1e41ce824071753ffecce3611f4",
+    "semantic_hash": ""
+  },
+  "knowledge/preferences/README.md": {
+    "mtime": 1780039079.1855626,
+    "ast_hash": "bc19622330b1071e37a3d69948e5f9a1",
+    "semantic_hash": ""
+  },
+  "knowledge/preferences/enforcement-over-best-effort.md": {
+    "mtime": 1780040509.100692,
+    "ast_hash": "93314533b76257b525902076b72e16ba",
+    "semantic_hash": ""
+  },
+  "knowledge/references/README.md": {
+    "mtime": 1780039089.078287,
+    "ast_hash": "01db7b0188b85294ea6ff9f3076e4a08",
+    "semantic_hash": ""
+  },
+  "knowledge/tools-and-setup/README.md": {
+    "mtime": 1780039086.14466,
+    "ast_hash": "a95fc3e78c166e27aecc7c1ec6876d2e",
+    "semantic_hash": ""
+  },
+  "knowledge/tools-and-setup/agent-memory-workflow.md": {
+    "mtime": 1780040488.0873008,
+    "ast_hash": "c98017e7a3a4df70468f0710f6a1975e",
+    "semantic_hash": ""
+  },
+  "knowledge/tools-and-setup/ghostscript-install.md": {
+    "mtime": 1780281533.1480718,
+    "ast_hash": "d9fa5e8d3802dc9124ee65bd1f2cc015",
+    "semantic_hash": ""
+  },
+  "knowledge/tools-and-setup/liteparse.md": {
+    "mtime": 1780039239.6675353,
+    "ast_hash": "dda8336979500798b27c8e111f4506a8",
+    "semantic_hash": ""
+  },
+  "knowledge/tools-and-setup/obsidian-mcp.md": {
+    "mtime": 1780039258.4753788,
+    "ast_hash": "7748966f9d7f405c8231d2c456768e8b",
+    "semantic_hash": ""
+  },
+  "knowledge/tools-and-setup/tesseract-ocr.md": {
+    "mtime": 1780039245.6996908,
+    "ast_hash": "2431def1389dad19e10e9a53c8dd7e12",
+    "semantic_hash": ""
+  },
+  "knowledge/topics/README.md": {
+    "mtime": 1780039091.6514554,
+    "ast_hash": "c4aa5e990b8de8d376bf476cd72aa99d",
+    "semantic_hash": ""
+  },
+  "meta/changelog.md": {
+    "mtime": 1781227388.6045341,
+    "ast_hash": "ea59c559fe7648d3be272ae59b3ba857",
+    "semantic_hash": ""
+  },
+  "projects/Active/Playa Vista ASC/00 Brief.md": {
+    "mtime": 1780088238.2157657,
+    "ast_hash": "04347ffa762de96d42c486896f855bfc",
+    "semantic_hash": ""
+  },
+  "projects/Active/_Template/00 Brief.md": {
+    "mtime": 1780088238.2147636,
+    "ast_hash": "dc5a1fe94bc320a4671783ec1eecc49d",
+    "semantic_hash": ""
+  },
+  "projects/_Index.md": {
+    "mtime": 1780088238.213766,
+    "ast_hash": "145bf5b222839f44d186c32843f93bd4",
+    "semantic_hash": ""
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "changelog.md",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L1",
+      "id": "meta_changelog",
+      "community": 0,
+      "norm_label": "changelog.md"
+    },
+    {
+      "label": "Changelog",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L1",
+      "id": "meta_changelog_changelog",
+      "community": 0,
+      "norm_label": "changelog"
+    },
+    {
+      "label": "2026-06-11 \u2014 Culver City Surgical Dashboard mock interaction layer",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L5",
+      "id": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer",
+      "community": 0,
+      "norm_label": "2026-06-11 \u2014 culver city surgical dashboard mock interaction layer"
+    },
+    {
+      "label": "2026-06-05 \u2014 Verification economy: stop conditions, not-notation rewrite, narration rule",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L8",
+      "id": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule",
+      "community": 0,
+      "norm_label": "2026-06-05 \u2014 verification economy: stop conditions, not-notation rewrite, narration rule"
+    },
+    {
+      "label": "2026-06-05 \u2014 Verification economy: six amendments applied (Claude Code + Codex)",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L12",
+      "id": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex",
+      "community": 0,
+      "norm_label": "2026-06-05 \u2014 verification economy: six amendments applied (claude code + codex)"
+    },
+    {
+      "label": "2026-06-05 \u2014 Verification economy: token-efficient proof ladder (Claude Code + Codex)",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L16",
+      "id": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex",
+      "community": 0,
+      "norm_label": "2026-06-05 \u2014 verification economy: token-efficient proof ladder (claude code + codex)"
+    },
+    {
+      "label": "2026-05-31 \u2014 Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset)",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L23",
+      "id": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset",
+      "community": 0,
+      "norm_label": "2026-05-31 \u2014 auto-resume mechanism wired up (ccusage + sessionstart hook + /check_reset)"
+    },
+    {
+      "label": "2026-05-31 \u2014 Global rule: auto-resume at the 5-hour reset",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L29",
+      "id": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset",
+      "community": 0,
+      "norm_label": "2026-05-31 \u2014 global rule: auto-resume at the 5-hour reset"
+    },
+    {
+      "label": "2026-05-29 \u2014 Added knowledge/ general-memory tree (hybrid: type folders + domain tags)",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L37",
+      "id": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags",
+      "community": 0,
+      "norm_label": "2026-05-29 \u2014 added knowledge/ general-memory tree (hybrid: type folders + domain tags)"
+    },
+    {
+      "label": "2026-05-29 \u2014 Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write)",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L42",
+      "id": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write",
+      "community": 0,
+      "norm_label": "2026-05-29 \u2014 claude code wired to obsidian vault via obsidian-mcp (global, read+write)"
+    },
+    {
+      "label": "2026-05-28 \u2014 liteparse installed as primary document parser (Claude Code, Windows)",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L47",
+      "id": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows",
+      "community": 0,
+      "norm_label": "2026-05-28 \u2014 liteparse installed as primary document parser (claude code, windows)"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "meta_changelog",
+      "target": "meta_changelog_changelog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "0ed14a18ad6b60f452cb1a7c467a84dc71344d09"
+}
