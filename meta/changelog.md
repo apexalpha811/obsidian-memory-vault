@@ -2,6 +2,9 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-06-11 — Culver City Surgical Dashboard mock interaction layer
+- Resumed work on `C:\Users\kv8n11\culver-city-surgical-dashboard/`. Fixed missing closing paren in eligibility detail function (SyntaxError from concise-to-block-arrow conversion). Added toast system, drawerAct/drawerX12 helpers, X12 viewers, and onclick handlers to all mock action buttons. Committed 47 insert/12 delete. Added session note to graphify knowledge base.
+
 ## 2026-06-05 — Verification economy: stop conditions, not-notation rewrite, narration rule
 - Rewrote the Verification economy section in `~/.claude/CLAUDE.md` and Codex `AGENTS.md` rule 23 using "must not / do not" style throughout. Added explicit stop conditions for each tier so an autonomous agent has a binary gate per tier rather than a fuzzy "answers the question" judgment. Added a narration rule (state the tier and reason in one line before producing evidence). Added a prior-image-in-context rule (if a screenshot is already in the session, default to text for follow-ups). Added negative e2e examples to Tier 1 (do not write a new test for a single copy change, icon swap, or single-line CSS tweak). Added visual-only examples to Tier 3 (relative spacing, z-index overlap) and explicit non-visual examples to Tier 2 (exact px, hex, border radius, aria, label text). Vault README updated.
 - Rejected: restoring the "3+ iterations" e2e forecast (regression from amendment 2); session-level screenshot counter (redundant with per-change budget).
