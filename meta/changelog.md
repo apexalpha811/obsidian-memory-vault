@@ -2,6 +2,11 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-06-12 - Claude Code DocuPipe routing lesson
+- Added a Claude Code-specific integration routing lesson to `agents/claude-code/README.md`.
+- Captured the DocuPipe/Stedi failure pattern from the dashboard clone: audit schema selection, target, endpoint, preview builder, dashboard target, and rendered record as one route.
+- Added guardrails against saving test values into real module IDs and against treating `200` responses as proof without checking dashboard business fields.
+
 ## 2026-06-12 - DocuPipe live PNG upload tested
 - Recorded live test of `C:\Users\kv8n11\Downloads\test.png` through the DocuPipe clone.
 - Captured upload payload fix: DocuPipe requires base64 local file content at `document.file.contents`, not `document.file.base64`.

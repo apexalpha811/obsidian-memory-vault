@@ -74,6 +74,18 @@ Full policy in `~/.claude/CLAUDE.md`. You must verify your own work; never offlo
 
 **Prior image in context:** If a screenshot already exists in the conversation, default to text evidence for follow-ups. Do not add a second image unless the follow-up is genuinely perceptual and distinct.
 
+## Integration Routing Lessons
+
+### DocuPipe, Stedi, and dashboard parsing
+
+Treat integration routing config as production data. For DocuPipe or similar parser-to-dashboard work, audit the whole route before declaring parsing fixed:
+
+`source document -> parser schema or auto selection -> integration target -> server endpoint -> preview builder -> dashboard target -> rendered record`
+
+Do not save test values into real module IDs. Use throwaway fixtures or temporary IDs. Stale draft modules must not remain selectable after schema creation is removed, because they can send good extracted data through the wrong schema, target, endpoint, or dashboard builder.
+
+A `200` response is not proof that parsing works. Verify the actual business fields in the dashboard-shaped record. For claims, check patient, payer, provider, billed, paid, date of service, payer claim number, CPT lines, and ICD codes. Restart the server after server-side mapping changes before testing.
+
 ## Local Environment & Tooling (this machine — Windows)
 
 ### Document parsing — liteparse is the primary tool
