@@ -2,6 +2,10 @@
 
 Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 
+## 2026-06-12 - DocuPipe live PNG upload tested
+- Recorded live test of `C:\Users\kv8n11\Downloads\test.png` through the DocuPipe clone.
+- Captured upload payload fix: DocuPipe requires base64 local file content at `document.file.contents`, not `document.file.base64`.
+
 ## 2026-06-12 - Culver City Surgical Dashboard DocuPipe clone
 - Created project memory for `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`.
 - Recorded that the original dashboard stayed unchanged, the clone runs on `http://localhost:8742`, and verification passed for mock DocuPipe upload, standardization, Stedi preview, dashboard insertion, and Print Center.

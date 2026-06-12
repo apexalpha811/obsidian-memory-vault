@@ -30,6 +30,9 @@
 - `data/docupipe-modules.json` parsed successfully.
 - Original dashboard `git status --short` stayed clean.
 - Browser automation verified five modules, mock upload, mock standardization, Stedi preview, dashboard claim insertion, Print Center popup, and zero console errors.
+- Live DocuPipe PNG upload was tested with `C:\Users\kv8n11\Downloads\test.png`.
+- Upload gotcha fixed: DocuPipe expects base64 local file content at `document.file.contents`, not `document.file.base64`.
+- Live result: document `QC3CFTsP`, job `lhDjlUD1`, both completed. One PNG page parsed, language `en`, result length `770`, 1 credit, processing time about `3.37s`.
 
 ## Next
 
