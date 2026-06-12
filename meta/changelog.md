@@ -42,6 +42,11 @@ Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 - SessionStart hook: auto `git pull` + inject `_index.md` / claude-code README / user-profile each session. SessionEnd hook: auto-commit+push uncommitted vault changes (skips when clean). Both need `/hooks` reload or restart to activate.
 - `/save_obsidian` (write only) and `/commit_obsidian` (write + commit + push) slash commands — live immediately. Design principle captured: judgment → slash command, mechanism → hook; don't leave load-bearing behavior to best-effort prompt routines.
 
+## 2026-06-12 — Added Codex integration-routing lesson
+- Created `agents/Codex/README.md` because project instructions reference a Codex-specific memory file and it did not exist.
+- Added the DocuPipe session lesson: treat module JSON, parser schema selection, Stedi target, endpoint, preview builder, dashboard target, and rendered record as one production route.
+- Added verification rule: document imports are not proven by `200` responses; verify real dashboard fields such as patient, payer, billed, paid, CPT lines, and ICD codes.
+
 ## 2026-05-29 — Added knowledge/ general-memory tree (hybrid: type folders + domain tags)
 - New top-level `knowledge/` with type-based subfolders: `people/`, `preferences/`, `decisions/`, `tools-and-setup/`, `references/`, `topics/`. Each has a README stating what belongs there.
 - Filing model: folder = TYPE of thing; frontmatter `tags` = DOMAIN/area of life (work/personal/finance/health/learning/home, extend freely). Master rules + frontmatter schema in `knowledge/README.md`.
