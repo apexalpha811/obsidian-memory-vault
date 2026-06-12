@@ -22,10 +22,19 @@
       "norm_label": "changelog"
     },
     {
-      "label": "2026-06-12 - Culver City Surgical Dashboard DocuPipe clone",
+      "label": "2026-06-12 - DocuPipe live PNG upload tested",
       "file_type": "document",
       "source_file": "meta/changelog.md",
       "source_location": "L5",
+      "id": "meta_changelog_2026_06_12_docupipe_live_png_upload_tested",
+      "community": 0,
+      "norm_label": "2026-06-12 - docupipe live png upload tested"
+    },
+    {
+      "label": "2026-06-12 - Culver City Surgical Dashboard DocuPipe clone",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L9",
       "id": "meta_changelog_2026_06_12_culver_city_surgical_dashboard_docupipe_clone",
       "community": 0,
       "norm_label": "2026-06-12 - culver city surgical dashboard docupipe clone"
@@ -34,7 +43,7 @@
       "label": "2026-06-11 \u2014 Culver City Surgical Dashboard mock interaction layer",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L9",
+      "source_location": "L13",
       "id": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer",
       "community": 0,
       "norm_label": "2026-06-11 \u2014 culver city surgical dashboard mock interaction layer"
@@ -43,7 +52,7 @@
       "label": "2026-06-05 \u2014 Verification economy: stop conditions, not-notation rewrite, narration rule",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L12",
+      "source_location": "L16",
       "id": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: stop conditions, not-notation rewrite, narration rule"
@@ -52,7 +61,7 @@
       "label": "2026-06-05 \u2014 Verification economy: six amendments applied (Claude Code + Codex)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L16",
+      "source_location": "L20",
       "id": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: six amendments applied (claude code + codex)"
@@ -61,7 +70,7 @@
       "label": "2026-06-05 \u2014 Verification economy: token-efficient proof ladder (Claude Code + Codex)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L20",
+      "source_location": "L24",
       "id": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: token-efficient proof ladder (claude code + codex)"
@@ -70,7 +79,7 @@
       "label": "2026-05-31 \u2014 Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L27",
+      "source_location": "L31",
       "id": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset",
       "community": 0,
       "norm_label": "2026-05-31 \u2014 auto-resume mechanism wired up (ccusage + sessionstart hook + /check_reset)"
@@ -79,7 +88,7 @@
       "label": "2026-05-31 \u2014 Global rule: auto-resume at the 5-hour reset",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L33",
+      "source_location": "L37",
       "id": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset",
       "community": 0,
       "norm_label": "2026-05-31 \u2014 global rule: auto-resume at the 5-hour reset"
@@ -88,7 +97,7 @@
       "label": "2026-05-29 \u2014 Added knowledge/ general-memory tree (hybrid: type folders + domain tags)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L41",
+      "source_location": "L45",
       "id": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags",
       "community": 0,
       "norm_label": "2026-05-29 \u2014 added knowledge/ general-memory tree (hybrid: type folders + domain tags)"
@@ -97,7 +106,7 @@
       "label": "2026-05-29 \u2014 Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L46",
+      "source_location": "L50",
       "id": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write",
       "community": 0,
       "norm_label": "2026-05-29 \u2014 claude code wired to obsidian vault via obsidian-mcp (global, read+write)"
@@ -106,7 +115,7 @@
       "label": "2026-05-28 \u2014 liteparse installed as primary document parser (Claude Code, Windows)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L51",
+      "source_location": "L55",
       "id": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows",
       "community": 0,
       "norm_label": "2026-05-28 \u2014 liteparse installed as primary document parser (claude code, windows)"
@@ -169,7 +178,7 @@
       "label": "Next",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L34",
+      "source_location": "L37",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_next",
       "community": 1,
       "norm_label": "next"
@@ -179,36 +188,36 @@
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L1",
-      "id": "projects_index",
       "community": 2,
-      "norm_label": "_index.md"
+      "norm_label": "_index.md",
+      "id": "projects_index"
     },
     {
       "label": "Projects",
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L1",
-      "id": "projects_index_projects",
       "community": 2,
-      "norm_label": "projects"
+      "norm_label": "projects",
+      "id": "projects_index_projects"
     },
     {
       "label": "Standard Project Structure",
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L5",
-      "id": "projects_index_standard_project_structure",
       "community": 2,
-      "norm_label": "standard project structure"
+      "norm_label": "standard project structure",
+      "id": "projects_index_standard_project_structure"
     },
     {
       "label": "Active Projects",
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L17",
-      "id": "projects_index_active_projects",
       "community": 2,
-      "norm_label": "active projects"
+      "norm_label": "active projects",
+      "id": "projects_index_active_projects"
     }
   ],
   "links": [
@@ -318,8 +327,18 @@
       "source_file": "meta/changelog.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_12_culver_city_surgical_dashboard_docupipe_clone",
+      "target": "meta_changelog_2026_06_12_culver_city_surgical_dashboard_docupipe_clone"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_12_docupipe_live_png_upload_tested",
       "confidence_score": 1.0
     },
     {
@@ -328,9 +347,9 @@
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "culver_city_surgical_dashboard_docupipe_00_brief",
-      "target": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
-      "confidence_score": 1.0
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe"
     },
     {
       "relation": "contains",
@@ -338,9 +357,9 @@
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
-      "target": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files",
-      "confidence_score": 1.0
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files"
     },
     {
       "relation": "contains",
@@ -348,9 +367,9 @@
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
-      "target": "culver_city_surgical_dashboard_docupipe_00_brief_current_state",
-      "confidence_score": 1.0
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_current_state"
     },
     {
       "relation": "contains",
@@ -358,9 +377,9 @@
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
-      "target": "culver_city_surgical_dashboard_docupipe_00_brief_location",
-      "confidence_score": 1.0
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_location"
     },
     {
       "relation": "contains",
@@ -368,9 +387,9 @@
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
-      "target": "culver_city_surgical_dashboard_docupipe_00_brief_next",
-      "confidence_score": 1.0
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_next"
     },
     {
       "relation": "contains",
@@ -378,9 +397,9 @@
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
-      "target": "culver_city_surgical_dashboard_docupipe_00_brief_verification",
-      "confidence_score": 1.0
+      "target": "culver_city_surgical_dashboard_docupipe_00_brief_verification"
     },
     {
       "relation": "contains",
@@ -388,9 +407,9 @@
       "source_file": "projects/_Index.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "projects_index",
-      "target": "projects_index_projects",
-      "confidence_score": 1.0
+      "target": "projects_index_projects"
     },
     {
       "relation": "contains",
@@ -398,9 +417,9 @@
       "source_file": "projects/_Index.md",
       "source_location": "L17",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "projects_index_projects",
-      "target": "projects_index_active_projects",
-      "confidence_score": 1.0
+      "target": "projects_index_active_projects"
     },
     {
       "relation": "contains",
@@ -408,11 +427,11 @@
       "source_file": "projects/_Index.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "projects_index_projects",
-      "target": "projects_index_standard_project_structure",
-      "confidence_score": 1.0
+      "target": "projects_index_standard_project_structure"
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "65746312db72be4fc2e74a4944d66c155aaaba4e"
+  "built_at_commit": "383eadb3f16bd3c109c9954d3eeb0160908d5b59"
 }
