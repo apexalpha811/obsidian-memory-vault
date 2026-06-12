@@ -4,6 +4,123 @@
   "graph": {},
   "nodes": [
     {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L1",
+      "id": "claude_code_readme",
+      "community": 4,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Claude Code \u2014 Agent-Specific Instructions",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L1",
+      "id": "claude_code_readme_claude_code_agent_specific_instructions",
+      "community": 4,
+      "norm_label": "claude code \u2014 agent-specific instructions"
+    },
+    {
+      "label": "About This Vault",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L5",
+      "id": "claude_code_readme_about_this_vault",
+      "community": 4,
+      "norm_label": "about this vault"
+    },
+    {
+      "label": "Required Actions",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L13",
+      "id": "claude_code_readme_required_actions",
+      "community": 5,
+      "norm_label": "required actions"
+    },
+    {
+      "label": "At session start",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L15",
+      "id": "claude_code_readme_at_session_start",
+      "community": 5,
+      "norm_label": "at session start"
+    },
+    {
+      "label": "Website aesthetic extraction",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L22",
+      "id": "claude_code_readme_website_aesthetic_extraction",
+      "community": 5,
+      "norm_label": "website aesthetic extraction"
+    },
+    {
+      "label": "At session end",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L57",
+      "id": "claude_code_readme_at_session_end",
+      "community": 5,
+      "norm_label": "at session end"
+    },
+    {
+      "label": "Verification economy (token-efficient proof)",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L62",
+      "id": "claude_code_readme_verification_economy_token_efficient_proof",
+      "community": 4,
+      "norm_label": "verification economy (token-efficient proof)"
+    },
+    {
+      "label": "Integration Routing Lessons",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L77",
+      "id": "claude_code_readme_integration_routing_lessons",
+      "community": 4,
+      "norm_label": "integration routing lessons"
+    },
+    {
+      "label": "DocuPipe, Stedi, and dashboard parsing",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L79",
+      "id": "claude_code_readme_docupipe_stedi_and_dashboard_parsing",
+      "community": 4,
+      "norm_label": "docupipe, stedi, and dashboard parsing"
+    },
+    {
+      "label": "Local Environment & Tooling (this machine \u2014 Windows)",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L89",
+      "id": "claude_code_readme_local_environment_tooling_this_machine_windows",
+      "community": 4,
+      "norm_label": "local environment & tooling (this machine \u2014 windows)"
+    },
+    {
+      "label": "Document parsing \u2014 liteparse is the primary tool",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L91",
+      "id": "claude_code_readme_document_parsing_liteparse_is_the_primary_tool",
+      "community": 4,
+      "norm_label": "document parsing \u2014 liteparse is the primary tool"
+    },
+    {
+      "label": "Git Setup",
+      "file_type": "document",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L102",
+      "id": "claude_code_readme_git_setup",
+      "community": 4,
+      "norm_label": "git setup"
+    },
+    {
       "label": "changelog.md",
       "file_type": "document",
       "source_file": "meta/changelog.md",
@@ -22,10 +139,19 @@
       "norm_label": "changelog"
     },
     {
-      "label": "2026-06-12 - DocuPipe live PNG upload tested",
+      "label": "2026-06-12 - Claude Code DocuPipe routing lesson",
       "file_type": "document",
       "source_file": "meta/changelog.md",
       "source_location": "L5",
+      "id": "meta_changelog_2026_06_12_claude_code_docupipe_routing_lesson",
+      "community": 0,
+      "norm_label": "2026-06-12 - claude code docupipe routing lesson"
+    },
+    {
+      "label": "2026-06-12 - DocuPipe live PNG upload tested",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L10",
       "id": "meta_changelog_2026_06_12_docupipe_live_png_upload_tested",
       "community": 0,
       "norm_label": "2026-06-12 - docupipe live png upload tested"
@@ -34,7 +160,7 @@
       "label": "2026-06-12 - Culver City Surgical Dashboard DocuPipe clone",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L9",
+      "source_location": "L14",
       "id": "meta_changelog_2026_06_12_culver_city_surgical_dashboard_docupipe_clone",
       "community": 0,
       "norm_label": "2026-06-12 - culver city surgical dashboard docupipe clone"
@@ -43,7 +169,7 @@
       "label": "2026-06-11 \u2014 Culver City Surgical Dashboard mock interaction layer",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L13",
+      "source_location": "L18",
       "id": "meta_changelog_2026_06_11_culver_city_surgical_dashboard_mock_interaction_layer",
       "community": 0,
       "norm_label": "2026-06-11 \u2014 culver city surgical dashboard mock interaction layer"
@@ -52,7 +178,7 @@
       "label": "2026-06-05 \u2014 Verification economy: stop conditions, not-notation rewrite, narration rule",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L16",
+      "source_location": "L21",
       "id": "meta_changelog_2026_06_05_verification_economy_stop_conditions_not_notation_rewrite_narration_rule",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: stop conditions, not-notation rewrite, narration rule"
@@ -61,7 +187,7 @@
       "label": "2026-06-05 \u2014 Verification economy: six amendments applied (Claude Code + Codex)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L20",
+      "source_location": "L25",
       "id": "meta_changelog_2026_06_05_verification_economy_six_amendments_applied_claude_code_codex",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: six amendments applied (claude code + codex)"
@@ -70,7 +196,7 @@
       "label": "2026-06-05 \u2014 Verification economy: token-efficient proof ladder (Claude Code + Codex)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L24",
+      "source_location": "L29",
       "id": "meta_changelog_2026_06_05_verification_economy_token_efficient_proof_ladder_claude_code_codex",
       "community": 0,
       "norm_label": "2026-06-05 \u2014 verification economy: token-efficient proof ladder (claude code + codex)"
@@ -79,7 +205,7 @@
       "label": "2026-05-31 \u2014 Auto-resume mechanism wired up (ccusage + SessionStart hook + /check_reset)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L31",
+      "source_location": "L36",
       "id": "meta_changelog_2026_05_31_auto_resume_mechanism_wired_up_ccusage_sessionstart_hook_check_reset",
       "community": 0,
       "norm_label": "2026-05-31 \u2014 auto-resume mechanism wired up (ccusage + sessionstart hook + /check_reset)"
@@ -88,16 +214,25 @@
       "label": "2026-05-31 \u2014 Global rule: auto-resume at the 5-hour reset",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L37",
+      "source_location": "L42",
       "id": "meta_changelog_2026_05_31_global_rule_auto_resume_at_the_5_hour_reset",
       "community": 0,
       "norm_label": "2026-05-31 \u2014 global rule: auto-resume at the 5-hour reset"
     },
     {
+      "label": "2026-06-12 \u2014 Added Codex integration-routing lesson",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L50",
+      "id": "meta_changelog_2026_06_12_added_codex_integration_routing_lesson",
+      "community": 0,
+      "norm_label": "2026-06-12 \u2014 added codex integration-routing lesson"
+    },
+    {
       "label": "2026-05-29 \u2014 Added knowledge/ general-memory tree (hybrid: type folders + domain tags)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L45",
+      "source_location": "L55",
       "id": "meta_changelog_2026_05_29_added_knowledge_general_memory_tree_hybrid_type_folders_domain_tags",
       "community": 0,
       "norm_label": "2026-05-29 \u2014 added knowledge/ general-memory tree (hybrid: type folders + domain tags)"
@@ -106,7 +241,7 @@
       "label": "2026-05-29 \u2014 Claude Code wired to Obsidian vault via obsidian-mcp (global, read+write)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L50",
+      "source_location": "L60",
       "id": "meta_changelog_2026_05_29_claude_code_wired_to_obsidian_vault_via_obsidian_mcp_global_read_write",
       "community": 0,
       "norm_label": "2026-05-29 \u2014 claude code wired to obsidian vault via obsidian-mcp (global, read+write)"
@@ -115,7 +250,7 @@
       "label": "2026-05-28 \u2014 liteparse installed as primary document parser (Claude Code, Windows)",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L55",
+      "source_location": "L65",
       "id": "meta_changelog_2026_05_28_liteparse_installed_as_primary_document_parser_claude_code_windows",
       "community": 0,
       "norm_label": "2026-05-28 \u2014 liteparse installed as primary document parser (claude code, windows)"
@@ -124,7 +259,7 @@
       "label": "2026-06-12 \u2014 DocuPipe clone schema draft action",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L62",
+      "source_location": "L72",
       "id": "meta_changelog_2026_06_12_docupipe_clone_schema_draft_action",
       "community": 0,
       "norm_label": "2026-06-12 \u2014 docupipe clone schema draft action"
@@ -133,7 +268,7 @@
       "label": "2026-06-12 \u2014 DocuPipe partial import auto-add",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L67",
+      "source_location": "L77",
       "id": "meta_changelog_2026_06_12_docupipe_partial_import_auto_add",
       "community": 0,
       "norm_label": "2026-06-12 \u2014 docupipe partial import auto-add"
@@ -142,7 +277,7 @@
       "label": "2026-06-12 \u2014 DocuPipe live claim mapping fix",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L72",
+      "source_location": "L82",
       "id": "meta_changelog_2026_06_12_docupipe_live_claim_mapping_fix",
       "community": 0,
       "norm_label": "2026-06-12 \u2014 docupipe live claim mapping fix"
@@ -151,73 +286,127 @@
       "label": "2026-06-12 \u2014 DocuPipe record editability",
       "file_type": "document",
       "source_file": "meta/changelog.md",
-      "source_location": "L76",
+      "source_location": "L86",
       "id": "meta_changelog_2026_06_12_docupipe_record_editability",
       "community": 0,
       "norm_label": "2026-06-12 \u2014 docupipe record editability"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "readme.md",
+      "id": "codex_readme"
+    },
+    {
+      "label": "Codex Agent Memory",
+      "file_type": "document",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L1",
+      "community": 3,
+      "norm_label": "codex agent memory",
+      "id": "codex_readme_codex_agent_memory"
+    },
+    {
+      "label": "Session Start",
+      "file_type": "document",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L3",
+      "community": 3,
+      "norm_label": "session start",
+      "id": "codex_readme_session_start"
+    },
+    {
+      "label": "Durable Lessons",
+      "file_type": "document",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L11",
+      "community": 3,
+      "norm_label": "durable lessons",
+      "id": "codex_readme_durable_lessons"
+    },
+    {
+      "label": "Integration routing configs are production data",
+      "file_type": "document",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L13",
+      "community": 3,
+      "norm_label": "integration routing configs are production data",
+      "id": "codex_readme_integration_routing_configs_are_production_data"
+    },
+    {
+      "label": "Verify values, not just success responses",
+      "file_type": "document",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L21",
+      "community": 3,
+      "norm_label": "verify values, not just success responses",
+      "id": "codex_readme_verify_values_not_just_success_responses"
     },
     {
       "label": "00 Brief.md",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L1",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief",
       "community": 1,
-      "norm_label": "00 brief.md"
+      "norm_label": "00 brief.md",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief"
     },
     {
       "label": "Culver City Surgical Dashboard DocuPipe",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L1",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe",
       "community": 1,
-      "norm_label": "culver city surgical dashboard docupipe"
+      "norm_label": "culver city surgical dashboard docupipe",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_culver_city_surgical_dashboard_docupipe"
     },
     {
       "label": "Location",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L3",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief_location",
       "community": 1,
-      "norm_label": "location"
+      "norm_label": "location",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_location"
     },
     {
       "label": "Current State",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L8",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief_current_state",
       "community": 1,
-      "norm_label": "current state"
+      "norm_label": "current state",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_current_state"
     },
     {
       "label": "Added Clone Files",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L18",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files",
       "community": 1,
-      "norm_label": "added clone files"
+      "norm_label": "added clone files",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files"
     },
     {
       "label": "Verification",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L29",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief_verification",
       "community": 1,
-      "norm_label": "verification"
+      "norm_label": "verification",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_verification"
     },
     {
       "label": "Next",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
       "source_location": "L44",
-      "id": "culver_city_surgical_dashboard_docupipe_00_brief_next",
       "community": 1,
-      "norm_label": "next"
+      "norm_label": "next",
+      "id": "culver_city_surgical_dashboard_docupipe_00_brief_next"
     },
     {
       "label": "_Index.md",
@@ -257,6 +446,126 @@
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude_code_readme",
+      "target": "claude_code_readme_claude_code_agent_specific_instructions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "claude_code_readme_claude_code_agent_specific_instructions",
+      "target": "claude_code_readme_about_this_vault",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "claude_code_readme_claude_code_agent_specific_instructions",
+      "target": "claude_code_readme_git_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "claude_code_readme_claude_code_agent_specific_instructions",
+      "target": "claude_code_readme_integration_routing_lessons",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "claude_code_readme_claude_code_agent_specific_instructions",
+      "target": "claude_code_readme_local_environment_tooling_this_machine_windows",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "claude_code_readme_claude_code_agent_specific_instructions",
+      "target": "claude_code_readme_required_actions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "claude_code_readme_claude_code_agent_specific_instructions",
+      "target": "claude_code_readme_verification_economy_token_efficient_proof",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "claude_code_readme_required_actions",
+      "target": "claude_code_readme_at_session_end",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "claude_code_readme_required_actions",
+      "target": "claude_code_readme_at_session_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "claude_code_readme_required_actions",
+      "target": "claude_code_readme_website_aesthetic_extraction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "claude_code_readme_integration_routing_lessons",
+      "target": "claude_code_readme_docupipe_stedi_and_dashboard_parsing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/claude-code/README.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "claude_code_readme_local_environment_tooling_this_machine_windows",
+      "target": "claude_code_readme_document_parsing_liteparse_is_the_primary_tool",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -361,6 +670,26 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "meta/changelog.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_12_added_codex_integration_routing_lesson"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_12_claude_code_docupipe_routing_lesson",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
       "source_location": "L5",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -413,9 +742,59 @@
       "source_file": "meta/changelog.md",
       "source_location": "L76",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_12_docupipe_record_editability",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_12_docupipe_record_editability"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "codex_readme",
+      "target": "codex_readme_codex_agent_memory"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "codex_readme_codex_agent_memory",
+      "target": "codex_readme_durable_lessons"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "codex_readme_codex_agent_memory",
+      "target": "codex_readme_session_start"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "codex_readme_durable_lessons",
+      "target": "codex_readme_integration_routing_configs_are_production_data"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "agents/Codex/README.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "codex_readme_durable_lessons",
+      "target": "codex_readme_verify_values_not_just_success_responses"
     },
     {
       "relation": "contains",
@@ -509,5 +888,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "353067bb3f92ff7d171f8badcd6d52ad218ff02e"
+  "built_at_commit": "a8b9e3c42920772833c112a5bd5d98cdd7449e52"
 }
