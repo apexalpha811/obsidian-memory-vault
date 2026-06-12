@@ -72,3 +72,7 @@ Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 ## 2026-06-12 — DocuPipe live claim mapping fix
 - In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, live claim standardizations now map DocuPipe's flat claim payload shape into the dashboard preview.
 - Verified with `C:\Users\kv8n11\Downloads\Untitled.png` and schema `3CNrau0Z`: the imported record surfaced `Marcus Marquez`, `Anthem Blue Cross CA`, `Dr. Alejandro Reyes, MD`, billed `$20,408`, and the correct CPT line list.
+
+## 2026-06-12 — DocuPipe record editability
+- In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, drawer-level edit support was added for claims, eligibility, providers, payers, enrollments, attachments, appeals, and COB.
+- Verified in Chrome: claim rows save inline corrections for patient, billed, paid, CPT, and diagnosis fields; provider rows save name, specialty, NPI, taxonomy, and enrollment counts.
