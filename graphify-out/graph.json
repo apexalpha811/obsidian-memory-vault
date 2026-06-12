@@ -148,6 +148,15 @@
       "norm_label": "2026-06-12 \u2014 docupipe live claim mapping fix"
     },
     {
+      "label": "2026-06-12 \u2014 DocuPipe record editability",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L76",
+      "id": "meta_changelog_2026_06_12_docupipe_record_editability",
+      "community": 0,
+      "norm_label": "2026-06-12 \u2014 docupipe record editability"
+    },
+    {
       "label": "00 Brief.md",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
@@ -187,7 +196,7 @@
       "label": "Added Clone Files",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L17",
+      "source_location": "L18",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files",
       "community": 1,
       "norm_label": "added clone files"
@@ -196,7 +205,7 @@
       "label": "Verification",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L28",
+      "source_location": "L29",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_verification",
       "community": 1,
       "norm_label": "verification"
@@ -205,7 +214,7 @@
       "label": "Next",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L42",
+      "source_location": "L44",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_next",
       "community": 1,
       "norm_label": "next"
@@ -374,9 +383,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L72",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_12_docupipe_live_claim_mapping_fix",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_12_docupipe_live_claim_mapping_fix"
     },
     {
       "relation": "contains",
@@ -397,6 +406,16 @@
       "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
       "target": "meta_changelog_2026_06_12_docupipe_partial_import_auto_add"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_12_docupipe_record_editability",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -490,5 +509,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "094b1834d6aebb3d82e1277b9f80cc8374b0f5cc"
+  "built_at_commit": "353067bb3f92ff7d171f8badcd6d52ad218ff02e"
 }
