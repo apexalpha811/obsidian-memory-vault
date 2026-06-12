@@ -130,6 +130,15 @@
       "norm_label": "2026-06-12 \u2014 docupipe clone schema draft action"
     },
     {
+      "label": "2026-06-12 \u2014 DocuPipe partial import auto-add",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L67",
+      "id": "meta_changelog_2026_06_12_docupipe_partial_import_auto_add",
+      "community": 0,
+      "norm_label": "2026-06-12 \u2014 docupipe partial import auto-add"
+    },
+    {
       "label": "00 Brief.md",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
@@ -169,7 +178,7 @@
       "label": "Added Clone Files",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L15",
+      "source_location": "L16",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_added_clone_files",
       "community": 1,
       "norm_label": "added clone files"
@@ -178,7 +187,7 @@
       "label": "Verification",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L26",
+      "source_location": "L27",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_verification",
       "community": 1,
       "norm_label": "verification"
@@ -187,7 +196,7 @@
       "label": "Next",
       "file_type": "document",
       "source_file": "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md",
-      "source_location": "L38",
+      "source_location": "L40",
       "id": "culver_city_surgical_dashboard_docupipe_00_brief_next",
       "community": 1,
       "norm_label": "next"
@@ -346,9 +355,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_12_docupipe_clone_schema_draft_action",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_12_docupipe_clone_schema_draft_action"
     },
     {
       "relation": "contains",
@@ -359,6 +368,16 @@
       "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
       "target": "meta_changelog_2026_06_12_docupipe_live_png_upload_tested"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_06_12_docupipe_partial_import_auto_add",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -452,5 +471,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "184425d794706eca84e39d847b11f0591bb53a27"
+  "built_at_commit": "5fa6bffb510d81eb157186a6f23fd1fc9ff4493e"
 }
