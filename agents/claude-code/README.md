@@ -76,6 +76,11 @@ Full policy in `~/.claude/CLAUDE.md`. You must verify your own work; never offlo
 
 ## Integration Routing Lessons
 
+### PDF export must be paginated, not screenshot-scaled
+
+Treat PDF export as a print layout problem. Build a hidden fixed-width export clone at letter proportions, paginate tall content into multiple pages, and verify the hardest pages separately instead of trusting page 1. Keep loading text and UI chrome out of the export root. If the bundled browser is missing, use a real headless Chrome with remote debugging for verification instead of skipping the check.
+
+
 ### DocuPipe, Stedi, and dashboard parsing
 
 Treat integration routing config as production data. For DocuPipe or similar parser-to-dashboard work, audit the whole route before declaring parsing fixed:
@@ -104,3 +109,4 @@ Gotcha: PATH/env changes only reach *newly launched* shells. If `lit`/`soffice`/
 - Remote: https://github.com/apexalpha811/obsidian-memory-vault.git
 - Default branch: main
 - If no GitHub token: ask the user for a classic token with `repo` scope
+

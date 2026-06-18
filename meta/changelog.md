@@ -1,6 +1,11 @@
 # Changelog
 
-Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
+Newest entries first. Format: ## YYYY-MM-DD — summary followed by bullets.
+
+## 2026-06-17 - PDF export pagination lesson
+- Captured the hard-earned rule that HTML-to-PDF must use a fixed-width print clone, not a scaled screenshot of the live responsive screen.
+- Added the reminder to verify the worst pages separately, especially the first page and the longest consent pages.
+- Recorded the fallback that if Playwright cannot launch its bundled browser, a remote-debugging Chrome session is the reliable verification path.
 
 ## 2026-06-12 - Claude Code DocuPipe routing lesson
 - Added a Claude Code-specific integration routing lesson to `agents/claude-code/README.md`.
@@ -86,3 +91,4 @@ Newest entries first. Format: `## YYYY-MM-DD — summary` followed by bullets.
 ## 2026-06-12 — DocuPipe record editability
 - In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, drawer-level edit support was added for claims, eligibility, providers, payers, enrollments, attachments, appeals, and COB.
 - Verified in Chrome: claim rows save inline corrections for patient, billed, paid, CPT, and diagnosis fields; provider rows save name, specialty, NPI, taxonomy, and enrollment counts.
+

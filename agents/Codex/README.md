@@ -9,6 +9,10 @@
 5. Load project-specific `tasks/lessons.md` and `tasks/todo.md` before editing code.
 
 ## Durable Lessons
+### PDF export is a print problem, not a screenshot problem
+
+When exporting HTML to PDF, never scale a tall responsive screen capture down to fit a page. Build an offscreen fixed-width export clone at letter proportions, paginate long content into multiple export pages, and verify the worst pages individually, especially the first page and the longest consent pages. Keep loading text, navigation, and other UI chrome out of the export root. If Playwright cannot launch its bundled browser, attach to a headless Chrome with remote debugging so export verification still runs.
+
 
 ### Integration routing configs are production data
 
@@ -21,3 +25,4 @@ Do not save test junk into a real module ID. Use throwaway fixtures or temporary
 ### Verify values, not just success responses
 
 For document import work, a `200` response is not proof. Verify that the expected business fields land in the dashboard shape. For claims, check patient, payer, provider, billed, paid, date of service, payer claim number, CPT lines, and ICD codes. Restart the server after server-side mapping changes before testing.
+
