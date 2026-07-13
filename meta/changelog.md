@@ -92,3 +92,7 @@ Newest entries first. Format: ## YYYY-MM-DD — summary followed by bullets.
 - In `C:\Users\kv8n11\culver-city-surgical-dashboard-docupipe`, drawer-level edit support was added for claims, eligibility, providers, payers, enrollments, attachments, appeals, and COB.
 - Verified in Chrome: claim rows save inline corrections for patient, billed, paid, CPT, and diagnosis fields; provider rows save name, specialty, NPI, taxonomy, and enrollment counts.
 
+
+## 2026-07-12 | CC Wellness website handoff
+- Added the current GitHub commit, CMS workflow, completed verification, Vercel status, launch placeholders, and untracked-logo boundary.
+- Indexed the CC Wellness website as an active project.
