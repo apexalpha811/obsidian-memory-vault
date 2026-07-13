@@ -710,8 +710,8 @@
     "semantic_hash": ""
   },
   "agents/claude-code/README.md": {
-    "mtime": 1781306663.6651237,
-    "ast_hash": "82c79bf969964d77343a7c7edeac5230",
+    "mtime": 1781763723.1511416,
+    "ast_hash": "bc9105ca10cc335cd79397b535ccae5f",
     "semantic_hash": ""
   },
   "agents/hermes/README.md": {
@@ -825,8 +825,8 @@
     "semantic_hash": ""
   },
   "meta/changelog.md": {
-    "mtime": 1781306670.2223442,
-    "ast_hash": "02862774d515cd1b4ae61d5bf4ca8085",
+    "mtime": 1783918760.1101918,
+    "ast_hash": "dfbe39f30b25d84d82b760330b563397",
     "semantic_hash": ""
   },
   "projects/Active/Playa Vista ASC/00 Brief.md": {
@@ -840,8 +840,8 @@
     "semantic_hash": ""
   },
   "projects/_Index.md": {
-    "mtime": 1781288395.4289734,
-    "ast_hash": "44d9444a5fae06e5ceea74cb73a56cef",
+    "mtime": 1783918760.0691528,
+    "ast_hash": "de740d1d5e40cac5929e1aa4dbdbe803",
     "semantic_hash": ""
   },
   "projects/Active/Culver City Surgical Dashboard DocuPipe/00 Brief.md": {
@@ -850,8 +850,13 @@
     "semantic_hash": ""
   },
   "agents/Codex/README.md": {
-    "mtime": 1781306601.2933183,
-    "ast_hash": "1f9057d5f615668e1eb89a6c7e3adfca",
+    "mtime": 1781763723.1481023,
+    "ast_hash": "c5e2f79189d0267cc57555b5577e4a4b",
+    "semantic_hash": ""
+  },
+  "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md": {
+    "mtime": 1783918728.9639456,
+    "ast_hash": "b5f823485e862572a8a43114f2a72939",
     "semantic_hash": ""
   }
 }
