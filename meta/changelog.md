@@ -96,3 +96,6 @@ Newest entries first. Format: ## YYYY-MM-DD — summary followed by bullets.
 ## 2026-07-12 | CC Wellness website handoff
 - Added the current GitHub commit, CMS workflow, completed verification, Vercel status, launch placeholders, and untracked-logo boundary.
 - Indexed the CC Wellness website as an active project.
+
+## 2026-07-14 | Culver City Wellness branding handoff
+- Updated the CC Wellness handoff with the completed branding commit, transparent original-color logo treatment, verification evidence, and remaining Vercel launch work.
