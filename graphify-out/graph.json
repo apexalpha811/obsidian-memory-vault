@@ -193,6 +193,15 @@
       "norm_label": "2026-07-12 | cc wellness website handoff"
     },
     {
+      "label": "2026-07-14 | Culver City Wellness branding handoff",
+      "file_type": "document",
+      "source_file": "meta/changelog.md",
+      "source_location": "L100",
+      "id": "meta_changelog_2026_07_14_culver_city_wellness_branding_handoff",
+      "community": 0,
+      "norm_label": "2026-07-14 | culver city wellness branding handoff"
+    },
+    {
       "label": "2026-07-12 Session Handoff.md",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
@@ -202,13 +211,13 @@
       "norm_label": "2026-07-12 session handoff.md"
     },
     {
-      "label": "CC Wellness Website Session Handoff",
+      "label": "Culver City Wellness Website Session Handoff",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
       "source_location": "L1",
-      "id": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "id": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "community": 5,
-      "norm_label": "cc wellness website session handoff"
+      "norm_label": "culver city wellness website session handoff"
     },
     {
       "label": "Current state",
@@ -223,7 +232,7 @@
       "label": "Completed",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L18",
+      "source_location": "L19",
       "id": "01_handoffs_2026_07_12_session_handoff_completed",
       "community": 5,
       "norm_label": "completed"
@@ -232,7 +241,7 @@
       "label": "Verified",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L28",
+      "source_location": "L32",
       "id": "01_handoffs_2026_07_12_session_handoff_verified",
       "community": 5,
       "norm_label": "verified"
@@ -241,7 +250,7 @@
       "label": "Remaining",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L39",
+      "source_location": "L47",
       "id": "01_handoffs_2026_07_12_session_handoff_remaining",
       "community": 5,
       "norm_label": "remaining"
@@ -250,7 +259,7 @@
       "label": "Resume",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L46",
+      "source_location": "L53",
       "id": "01_handoffs_2026_07_12_session_handoff_resume",
       "community": 5,
       "norm_label": "resume"
@@ -259,7 +268,7 @@
       "label": "Boundaries",
       "file_type": "document",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L57",
+      "source_location": "L64",
       "id": "01_handoffs_2026_07_12_session_handoff_boundaries",
       "community": 5,
       "norm_label": "boundaries"
@@ -269,36 +278,36 @@
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L1",
-      "id": "projects_index",
       "community": 2,
-      "norm_label": "_index.md"
+      "norm_label": "_index.md",
+      "id": "projects_index"
     },
     {
       "label": "Projects",
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L1",
-      "id": "projects_index_projects",
       "community": 2,
-      "norm_label": "projects"
+      "norm_label": "projects",
+      "id": "projects_index_projects"
     },
     {
       "label": "Standard Project Structure",
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L5",
-      "id": "projects_index_standard_project_structure",
       "community": 2,
-      "norm_label": "standard project structure"
+      "norm_label": "standard project structure",
+      "id": "projects_index_standard_project_structure"
     },
     {
       "label": "Active Projects",
       "file_type": "document",
       "source_file": "projects/_Index.md",
       "source_location": "L17",
-      "id": "projects_index_active_projects",
       "community": 2,
-      "norm_label": "active projects"
+      "norm_label": "active projects",
+      "id": "projects_index_active_projects"
     },
     {
       "label": "README.md",
@@ -722,9 +731,9 @@
       "source_file": "meta/changelog.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_06_17_pdf_export_pagination_lesson",
-      "confidence_score": 1.0
+      "target": "meta_changelog_2026_06_17_pdf_export_pagination_lesson"
     },
     {
       "relation": "contains",
@@ -732,8 +741,18 @@
       "source_file": "meta/changelog.md",
       "source_location": "L96",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "meta_changelog_changelog",
-      "target": "meta_changelog_2026_07_12_cc_wellness_website_handoff",
+      "target": "meta_changelog_2026_07_12_cc_wellness_website_handoff"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "meta/changelog.md",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "meta_changelog_changelog",
+      "target": "meta_changelog_2026_07_14_culver_city_wellness_branding_handoff",
       "confidence_score": 1.0
     },
     {
@@ -743,16 +762,16 @@
       "source_location": "L1",
       "weight": 1.0,
       "source": "01_handoffs_2026_07_12_session_handoff",
-      "target": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "target": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L57",
+      "source_location": "L64",
       "weight": 1.0,
-      "source": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "source": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "target": "01_handoffs_2026_07_12_session_handoff_boundaries",
       "confidence_score": 1.0
     },
@@ -760,9 +779,9 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L18",
+      "source_location": "L19",
       "weight": 1.0,
-      "source": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "source": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "target": "01_handoffs_2026_07_12_session_handoff_completed",
       "confidence_score": 1.0
     },
@@ -772,7 +791,7 @@
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
       "source_location": "L5",
       "weight": 1.0,
-      "source": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "source": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "target": "01_handoffs_2026_07_12_session_handoff_current_state",
       "confidence_score": 1.0
     },
@@ -780,9 +799,9 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L39",
+      "source_location": "L47",
       "weight": 1.0,
-      "source": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "source": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "target": "01_handoffs_2026_07_12_session_handoff_remaining",
       "confidence_score": 1.0
     },
@@ -790,9 +809,9 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L46",
+      "source_location": "L53",
       "weight": 1.0,
-      "source": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "source": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "target": "01_handoffs_2026_07_12_session_handoff_resume",
       "confidence_score": 1.0
     },
@@ -800,9 +819,9 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md",
-      "source_location": "L28",
+      "source_location": "L32",
       "weight": 1.0,
-      "source": "01_handoffs_2026_07_12_session_handoff_cc_wellness_website_session_handoff",
+      "source": "01_handoffs_2026_07_12_session_handoff_culver_city_wellness_website_session_handoff",
       "target": "01_handoffs_2026_07_12_session_handoff_verified",
       "confidence_score": 1.0
     },
@@ -1068,5 +1087,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "d4906d33aa271a0722b19cd10acf279aa51a94b9"
+  "built_at_commit": "3015ff55a83035fcc66ede4f0634e24b45723c73"
 }
