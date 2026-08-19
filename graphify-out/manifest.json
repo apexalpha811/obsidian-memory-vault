@@ -825,8 +825,8 @@
     "semantic_hash": ""
   },
   "meta/changelog.md": {
-    "mtime": 1784081857.8515954,
-    "ast_hash": "8101c070f341fe479c248dc15ed77e71",
+    "mtime": 1787153186.511731,
+    "ast_hash": "a05e9d74308a804f2e23df834955d0da",
     "semantic_hash": ""
   },
   "projects/Active/Playa Vista ASC/00 Brief.md": {
@@ -857,6 +857,11 @@
   "projects/Active/CC Wellness Website/01 Handoffs/2026-07-12 Session Handoff.md": {
     "mtime": 1784081857.8209114,
     "ast_hash": "2f8dc11310e6a41a513174c4f2354f1b",
+    "semantic_hash": ""
+  },
+  "knowledge/preferences/close-every-job-explicitly.md": {
+    "mtime": 1787153186.511731,
+    "ast_hash": "cd9d42273623f9ef65ebaa6f27877a79",
     "semantic_hash": ""
   }
 }

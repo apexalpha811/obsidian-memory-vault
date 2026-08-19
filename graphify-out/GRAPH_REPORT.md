@@ -1,16 +1,16 @@
-# Graph Report - .agent-memory  (2026-07-14)
+# Graph Report - .agent-memory  (2026-08-19)
 
 ## Corpus Check
-- 172 files · ~119,366 words
+- 173 files · ~119,620 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 60 nodes · 54 edges · 6 communities
+- 65 nodes · 58 edges · 7 communities
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `3015ff55`
+- Built from commit: `9925b96a`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -21,18 +21,19 @@
 - [[_COMMUNITY_Community 3|Community 3]]
 - [[_COMMUNITY_Community 4|Community 4]]
 - [[_COMMUNITY_Community 5|Community 5]]
+- [[_COMMUNITY_Community 6|Community 6]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Changelog` - 21 edges
 2. `Culver City Wellness Website Session Handoff` - 7 edges
 3. `Claude Code — Agent-Specific Instructions` - 7 edges
 4. `Culver City Surgical Dashboard DocuPipe` - 6 edges
-5. `Required Actions` - 4 edges
-6. `Projects` - 3 edges
-7. `Codex Agent Memory` - 3 edges
-8. `Durable Lessons` - 3 edges
-9. `Integration Routing Lessons` - 2 edges
-10. `Local Environment & Tooling (this machine — Windows)` - 2 edges
+5. `Close every job explicitly` - 4 edges
+6. `Required Actions` - 4 edges
+7. `Projects` - 3 edges
+8. `Codex Agent Memory` - 3 edges
+9. `Durable Lessons` - 3 edges
+10. `Integration Routing Lessons` - 2 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -40,7 +41,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (6 total, 0 thin omitted)
+## Communities (7 total, 0 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.09
@@ -66,14 +67,18 @@ Nodes (12): About This Vault, At session end, At session start, Claude Code — 
 Cohesion: 0.25
 Nodes (7): Boundaries, Completed, Culver City Wellness Website Session Handoff, Current state, Remaining, Resume, Verified
 
+### Community 6 - "Community 6"
+Cohesion: 0.40
+Nodes (4): Close every job explicitly, How to apply, Where this is enforced, Why
+
 ## Knowledge Gaps
-- **44 isolated node(s):** `2026-06-17 - PDF export pagination lesson`, `2026-06-12 - Claude Code DocuPipe routing lesson`, `2026-06-12 - DocuPipe live PNG upload tested`, `2026-06-12 - Culver City Surgical Dashboard DocuPipe clone`, `2026-06-11 — Culver City Surgical Dashboard mock interaction layer` (+39 more)
+- **47 isolated node(s):** `Why`, `How to apply`, `Where this is enforced`, `2026-06-17 - PDF export pagination lesson`, `2026-06-12 - Claude Code DocuPipe routing lesson` (+42 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **What connects `2026-06-17 - PDF export pagination lesson`, `2026-06-12 - Claude Code DocuPipe routing lesson`, `2026-06-12 - DocuPipe live PNG upload tested` to the rest of the system?**
-  _44 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `Why`, `How to apply`, `Where this is enforced` to the rest of the system?**
+  _47 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.09090909090909091 - nodes in this community are weakly interconnected._
