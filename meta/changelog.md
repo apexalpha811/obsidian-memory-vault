@@ -99,3 +99,5 @@ Newest entries first. Format: ## YYYY-MM-DD — summary followed by bullets.
 
 ## 2026-07-14 | Culver City Wellness branding handoff
 - Updated the CC Wellness handoff with the completed branding commit, transparent original-color logo treatment, verification evidence, and remaining Vercel launch work.
+
+- 2026-08-19: Added GLOBAL rule 19 to ~/.claude/CLAUDE.md, close every job explicitly and state that I am awaiting orders. Mirrored to knowledge/preferences/close-every-job-explicitly.md. Prompted by the user having to ask "are you done?" after a completed task.
