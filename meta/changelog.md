@@ -103,3 +103,5 @@ Newest entries first. Format: ## YYYY-MM-DD — summary followed by bullets.
 - 2026-08-19: Added GLOBAL rule 19 to ~/.claude/CLAUDE.md, close every job explicitly and state that I am awaiting orders. Mirrored to knowledge/preferences/close-every-job-explicitly.md. Prompted by the user having to ask "are you done?" after a completed task.
 
 - 2026-09-06: Added knowledge/preferences/deck-site-parity.md. Paired deliverables (PowerPoint deck + HTML landing page) must always mirror each other, and sibling packages must share structural elements. Prompted by shipping a logo fix to three HYGIA decks but not their pages, and by flagging a missing nav bar instead of fixing it.
+
+- 2026-09-07: Added knowledge/preferences/state-caveats-once.md. Raise a caveat once, then drop it; do not re-raise unactioned open items in later turns. Prompted by flagging the same uncommitted-work item in three consecutive messages.
